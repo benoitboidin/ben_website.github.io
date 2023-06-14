@@ -1,0 +1,10 @@
+{
+    "name": "Skills",
+    "skills": {
+        "Web": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ]
+    }
+}

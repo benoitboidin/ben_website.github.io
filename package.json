@@ -14,7 +14,7 @@
     "author": "Benoit Boidin",
     "license": "ISC",
     "bugs": {
-        "url": "benoit.bboidin@gmail.com"
+        "url": "mailto:benoit.bboidin@gmail.com"
     },
     "dependencies": {
         "http-server": "^14.1.1"
