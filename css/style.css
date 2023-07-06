@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+}
+
+h1{
+    color: white;
+    background-color: blue;
+}
+
+p{
+    color: blue;
+    background-color: black;
+}
+
+div{
+    background-color: red;
+}
+
+.skill-div{
+    background-color: blue;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.skill-img{
+    border-radius: 0%;
+}
+/* 
+.skill-img:hover{
+} 
+*/

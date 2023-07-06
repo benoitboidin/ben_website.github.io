@@ -1,10 +1,22 @@
-{
-    "name": "Skills",
-    "skills": {
-        "Web": [
-            "HTML",
-            "CSS",
-            "JavaScript"
-        ]
+[
+    {
+        "title": "spaCy",
+        "img": "img/spacy-logo.svg",
+        "description": "Natural language processing using spaCy library fo Python."
+    },
+    {
+        "title": "Python",
+        "img": "img/python-logo.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "title": "Climbing",
+        "img": "test-climb",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "title": "Social",
+        "img": "test-social",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
-}
+]
