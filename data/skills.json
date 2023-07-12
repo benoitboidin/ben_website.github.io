@@ -1,22 +1,52 @@
 [
     {
-        "title": "spaCy",
-        "img": "img/spacy-logo.svg",
-        "description": "Natural language processing using spaCy library fo Python."
-    },
-    {
         "title": "Python",
         "img": "img/python-logo.png",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "title": "Climbing",
-        "img": "test-climb",
+        "title": "NumPy",
+        "img": "img/numpy-logo.svg",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "title": "Social",
-        "img": "test-social",
+        "title": "pandas",
+        "img": "img/pandas-logo.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "title": "scikit-learn",
+        "img": "img/scikit-logo.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "title": "Matplotlib",
+        "img": "img/matplotlib-logo.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "title": "TensorFlow",
+        "img": "img/tensorflow-logo.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "title": "Keras",
+        "img": "img/keras-logo.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "title": "PyTorch",
+        "img": "img/pytorch-logo.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "title": "NLTK",
+        "img": "img/nltk-logo.png",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+        "title": "SpaCy",
+        "img": "img/spacy-logo.svg",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     }
 ]
