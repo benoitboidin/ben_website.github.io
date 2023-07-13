@@ -35,11 +35,6 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "title": "PyTorch",
-        "img": "img/pytorch-logo.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
         "title": "NLTK",
         "img": "img/nltk-logo.png",
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."

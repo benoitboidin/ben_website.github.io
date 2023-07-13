@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="theme-color" content="#000000" />
     <title>Benoît Boidin</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" type="image/x-icon" href="/img/shaka_sign_deep_blue.png">
@@ -9,7 +10,13 @@
 </head>
 <body>
     <header>
-        <h1>Home</h1>
+        <!-- Tab links -->
+        <div class="tab-bar">
+            <h1>Ben's home</h1>
+            <button class="tab" onclick="openTab(event, 'skills')">Skills</button>
+            <button class="tab" onclick="openTab(event, 'experiences')">Experiences</button>
+            <button class="tab" onclick="openTab(event, 'others')">Others</button>
+        </div>
     </header>
     <main>
         <div class="skill-container">

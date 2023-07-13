@@ -1,30 +1,62 @@
 body{
     cursor: default;
     font-family: 'Courier New', Courier, monospace;
-    /* background-image: url("/img/fern-background.jpg"); */
+    background-image: url("/img/fern-background-2.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
 
 h1{
-    color: white;
-    background-color: black;
+    align-self: start;
+    justify-content: left;
+    
     padding: 10px;
     margin: 20px;
     border-radius: 10px;
-
-    border: 1px solid rgba(255, 255, 255, .25);
-    border-radius: 20px;
-    background-color: rgba(0, 0, 0, 0.1);
-    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
-  
-    backdrop-filter: blur(15px);
-    -webkit-backdrop-filter: blur(15px);
+    
+    color: white;
 }
 
 div{
     background-color: none;
 }
+
+/* MENU BAR */
+
+.tab-bar{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+
+    color: white;
+    background-color: black;
+}
+
+.tab{
+    align-items: end;
+
+    padding: 20px;
+    margin: 20px;
+    border: 0px;
+
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+
+    color: rgb(255, 255, 255);
+}
+
+.tab:hover{
+    background-color: rgba(255, 255, 255, 0.15);
+    transition: background-color 0.2s ease;
+}
+
+/* MAIN CONTENT */
+
+/* Skills */
 
 .skill-container{
     display: flex;
@@ -33,23 +65,19 @@ div{
 }
 
 .skill-div {
-    color: black;
-    border-radius: 10px;
-    padding: 10px;
+    color: white;
+    background-color: rgba(255, 255, 255, .25);
+
+    padding: 20px;
     margin: 20px;
     max-width: 200px;
 
-    border: 1px solid rgba(255, 255, 255, .25);
-    border-radius: 20px;
-    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.2);
-  
-    backdrop-filter: blur(15px);
-    -webkit-backdrop-filter: blur(15px);
+    transition: background-color 0.2s ease;
   }
 
 .skill-div:hover{
-    background-color: rgba(255, 255, 255, 0.1);
-    box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.2);
+    background-color: rgba(255, 255, 255, 0.15);
+    transition: background-color 0.2s ease;
 }
 
 .skill-img{
@@ -57,3 +85,15 @@ div{
     max-height: 40px;
 }
 
+/* Experiences */
+
+
+/* Common */
+.tab-bar, .skill-div{
+    border: 0px;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.2);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+}
