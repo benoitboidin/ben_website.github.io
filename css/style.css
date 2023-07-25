@@ -1,5 +1,10 @@
 @import url('navbar.css');
 
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
 :root {
     --text-color: white;
 }
@@ -27,6 +32,7 @@ div{
 /* Skills */
 
 .skill-container{
+    margin-top: 87px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -57,7 +63,7 @@ div{
 /* Experiences */
 
 
-/* Common */
+/* CARDS */
 .tab-bar, .skill-div{
     color: var(--text-color);
     background-color: rgba(255, 255, 255, 0.2);

@@ -1,19 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Raleway);
-
-html, body {
-  margin: 0;
-  height: 100%;
-}
-
-/* * {
-  font-family: "Raleway";
-  box-sizing: border-box;
-} */
-
 .top-nav {
-    /* position: fixed;
-    top: 0;
-    width: 100%; */
+    /* Fix the menu on the top of the screen */
+    position: fixed; 
+    top: 0; 
     color: var(--text-color);
     display: flex;
     flex-direction: row;
@@ -23,8 +11,8 @@ html, body {
     backdrop-filter: blur(15px);
     -webkit-backdrop-filter: blur(15px); 
     height: 50px;
+    width: 100%;
     padding: 1em;
-    position: relative;
     z-index: 100;
 }
 
@@ -34,6 +22,9 @@ html, body {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    /* background-color: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px); */
 }
 
 .menu > li {
@@ -45,11 +36,11 @@ html, body {
     display: none;
     height: 100%;
     width: 30px;
+    margin-right: 30px;
     cursor: pointer;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    backdrop-filter: blur(10px);
 }
 
 #menu-toggle {
@@ -80,7 +71,7 @@ html, body {
 
 #menu-toggle:checked + .menu-button-container .menu-button::before {
     margin-top: 0px;
-    transform: rotate(405deg);
+    transform: rotate(45deg);
 }
 
 #menu-toggle:checked + .menu-button-container .menu-button {
@@ -89,7 +80,7 @@ html, body {
 
 #menu-toggle:checked + .menu-button-container .menu-button::after {
     margin-top: 0px;
-    transform: rotate(-405deg);
+    transform: rotate(-45deg);
 }
 
 @media (max-width: 700px) {
@@ -99,7 +90,7 @@ html, body {
   .menu {
     position: absolute;
     top: 0;
-    margin-top: 50px;
+    margin-top: 82px;
     left: 0;
     flex-direction: column;
     width: 100%;
@@ -114,7 +105,6 @@ html, body {
     transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
   }
   #menu-toggle:checked ~ .menu li {
-    border: 1px solid #333;
     height: 2.5em;
     padding: 0.5em;
     transition: height 400ms cubic-bezier(0.23, 1, 0.32, 1);
@@ -122,13 +112,10 @@ html, body {
   .menu > li {
     display: flex;
     justify-content: center;
+    align-items: center;
     margin: 0;
     padding: 0.5em 0;
     width: 100%;
     color: white;
-    background-color: red;
-  }
-  .menu > li:not(:last-child) {
-    border-bottom: 1px solid #444;
   }
 }
