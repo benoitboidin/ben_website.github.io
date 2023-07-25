@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="theme-color" content="#000000" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Benoît Boidin</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="icon" type="image/x-icon" href="/img/shaka_sign_deep_blue.png">
@@ -11,6 +12,22 @@
 <body>
     <header>
         <!-- Tab links -->
+        <section class="top-nav">
+            <div>
+                <h1>Dev</h1>
+            </div>
+            <input id="menu-toggle" type="checkbox" />
+            <label class='menu-button-container' for="menu-toggle">
+                <div class='menu-button'></div>
+            </label>
+            <ul class="menu">
+                <li>Skills</li>
+                <li>Experiences</li>
+                <li>Others</li>
+            </ul>
+        </section>
+
+<!--         
         <div class="tab-bar">
             <div class="tab-bar-left">
                 <h1>Ben's home</h1>
@@ -20,9 +37,17 @@
                 <button class="tab" onclick="openTab(event, 'experiences')">Experiences</button>
                 <button class="tab" onclick="openTab(event, 'others')">Others</button>
             </div>
-        </div>
+        </div> -->
     </header>
     <main>
+
+        <!-- <dialog id="d">
+            <form method="dialog">
+                <p>Hi Mom! Check out my dialog</p> <button>Close</button>
+            </form>
+        </dialog>
+        <button onclick="d.showModal()">Open Dialog</button> -->
+
         <div class="skill-container">
         </div>
         

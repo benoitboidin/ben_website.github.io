@@ -1,3 +1,9 @@
+@import url('navbar.css');
+
+:root {
+    --text-color: white;
+}
+
 body{
     cursor: default;
     font-family: 'Courier New', Courier, monospace;
@@ -14,40 +20,6 @@ h1{
 
 div{
     background-color: none;
-}
-
-/* MENU BAR */
-
-.tab-bar{
-    background-color: black;
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-}
-
-.tab-bar-left{
-    margin-right: auto;
-    margin-left: 20px;
-}
-
-.tab-bar-right{
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-end;
-    align-items: center;
-    margin-right: 20px;
-}
-
-.tab{
-    align-items: center;
-    border: 0px;
-
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 20px;
-
-    background-color: rgba(255, 255, 255, 0);
-    transition: background-color 0.2s ease;
 }
 
 /* MAIN CONTENT */
@@ -87,7 +59,7 @@ div{
 
 /* Common */
 .tab-bar, .skill-div{
-    color: white;
+    color: var(--text-color);
     background-color: rgba(255, 255, 255, 0.2);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(15px);
