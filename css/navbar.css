@@ -1,8 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway);
-h2 {
-  vertical-align: center;
-  text-align: center;
-}
 
 html, body {
   margin: 0;
@@ -15,6 +11,9 @@ html, body {
 } */
 
 .top-nav {
+    /* position: fixed;
+    top: 0;
+    width: 100%; */
     color: var(--text-color);
     display: flex;
     flex-direction: row;
@@ -25,6 +24,8 @@ html, body {
     -webkit-backdrop-filter: blur(15px); 
     height: 50px;
     padding: 1em;
+    position: relative;
+    z-index: 100;
 }
 
 .menu {
@@ -125,7 +126,7 @@ html, body {
     padding: 0.5em 0;
     width: 100%;
     color: white;
-    background-color: #222;
+    background-color: red;
   }
   .menu > li:not(:last-child) {
     border-bottom: 1px solid #444;
