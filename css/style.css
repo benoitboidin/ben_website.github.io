@@ -12,7 +12,7 @@ html, body {
 body{
     cursor: default;
     font-family: 'Courier New', Courier, monospace;
-    background-image: url("/img/fern-background-1.jpg");
+    background-image: url("/img/stone-background.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
@@ -29,17 +29,31 @@ div{
 
 /* MAIN CONTENT */
 
+/* Tab description */
+.description-container{
+    margin-top: 90px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.description-div{
+    padding: 20px;
+    margin: 10px;
+    max-width: 300px;
+    border-radius: 18px;
+}
+
 /* Skills */
 
 .skill-container{
-    margin-top: 87px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
 
 .skill-div {
-
     background-color: rgba(255, 255, 255, .25);
 
     padding: 20px;
@@ -64,7 +78,7 @@ div{
 
 
 /* CARDS */
-.tab-bar, .skill-div{
+.tab-bar, .skill-div, .description-div{
     color: var(--text-color);
     background-color: rgba(255, 255, 255, 0.2);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);

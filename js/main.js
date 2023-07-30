@@ -1,4 +1,34 @@
+async function init_tab_description() {
+    try{
+        const response = await fetch("../data/tab-descriptions.json");
+        const description = await response.json();
+
+        const descriptionDiv = document.createElement("div");
+        descriptionDiv.classList.add("description-div");
+
+        const descriptionTitle = document.createElement("h2");
+        descriptionTitle.classList.add("description-title");
+        descriptionTitle.textContent = description.title;
+        console.log(description.title);
+
+        const descriptionText = document.createElement("p");
+        descriptionText.classList.add("description-text");
+        descriptionText.textContent = description.text;
+        console.log(description.text);
+
+        descriptionDiv.appendChild(descriptionTitle);
+        descriptionDiv.appendChild(descriptionText);
+
+        const decsriptionContainer = document.querySelector(".description-container");
+        decsriptionContainer.appendChild(descriptionDiv);
+
+    }catch(error){
+        console.log(error);
+    }
+}
+
 async function init_skills() {
+    init_tab_description();
     try{
         const response = await fetch("../data/skills.json");
         const skills = await response.json();
@@ -12,7 +42,7 @@ async function init_skills() {
             const skillImg = document.createElement("img");
             skillImg.classList.add("skill-img");
             skillImg.src = skill.img;
-            const skillTitle = document.createElement("h2");
+            const skillTitle = document.createElement("h3");
             skillTitle.classList.add("skill-title");
             skillTitle.textContent = skill.title;    
             const skillDescription = document.createElement("p");
