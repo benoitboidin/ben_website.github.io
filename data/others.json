@@ -1,0 +1,17 @@
+[
+    {
+        "title": "UNTools",
+        "description": "A collection of tools for better thinking, really nice website.",
+        "link": "https://untools.co"
+    },
+    {
+        "title": "Flexbox Froggy",
+        "description": "A game for learning CSS flexbox.",
+        "link": "https://flexboxfroggy.com/"
+    },
+    {
+        "title": "MonProjetSup",
+        "description": "A website to help french student find a project for their studies.",
+        "link": "https://parcoursup.labri.fr/monprojetsup/"
+    }
+]

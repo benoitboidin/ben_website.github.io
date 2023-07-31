@@ -46,19 +46,19 @@ div{
     border-radius: 18px;
 
     color: var(--text-color);
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba(0, 0, 0, 0.4);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
     backdrop-filter: blur(20px);
     -webkit-backdrop-filter: blur(20px);
 }
 
-/* Skills */
-
-.skill-container{
+.content-container{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
 }
+
+/* Skills */
 
 .skill-div {
     background-color: rgba(255, 255, 255, .25);
@@ -83,9 +83,54 @@ div{
 
 /* Experiences */
 
+.experience-div{
+    background-color: rgba(255, 255, 255, .25);
+
+    padding: 20px;
+    margin: 10px;
+    max-width: 300px;
+    border-radius: 18px;
+
+    transition: background-color 0.2s ease;
+}
+
+.experience-div:hover{
+    background-color: rgba(255, 255, 255, 0.15);
+    transition: background-color 0.2s ease;
+}
+
+.experience-img{
+    border-radius: 0%;
+    max-height: 40px;
+}
+
+/* Others */
+
+.others-div{
+    background-color: rgba(255, 255, 255, .25);
+
+    padding: 20px;
+    margin: 10px;
+    max-width: 300px;
+    border-radius: 18px;
+
+    transition: background-color 0.2s ease;
+}
+
+.others-div:hover{
+    background-color: rgba(255, 255, 255, 0.15);
+    transition: background-color 0.2s ease;
+}
+
+.others-link{
+    color: var(--text-color);
+    text-decoration: underline;
+    font-weight: bold;
+}
+
 
 /* CARDS */
-.tab-bar, .skill-div{
+.tab-bar, .skill-div, .experience-div, .others-div{
     color: var(--text-color);
     background-color: rgba(255, 255, 255, 0.2);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);

@@ -1,7 +1,7 @@
 {
     "experiences": {
         "title": "Experiences",
-        "text": "Here are my professional experiences, internships or jobs."
+        "text": "Professional experiences, wether internships or jobs."
     },
     "skills": {
         "title": "Skills",
@@ -10,6 +10,6 @@
     "others":
     {
         "title": "Others",
-        "text": "Other intersting stuff."
+        "text": "Links to my networks (LinkedIn, GitHub...) and other intersting ressources."
     }
 }
