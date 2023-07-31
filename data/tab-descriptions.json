@@ -1,4 +1,15 @@
 {
-    "title": "Skills",
-    "text": "Here are the skills I developped by learning and working in different institutions."
+    "experiences": {
+        "title": "Experiences",
+        "text": "Here are my professional experiences, internships or jobs."
+    },
+    "skills": {
+        "title": "Skills",
+        "text": "I mainly work on keywords extraction, statistical analysis and data."
+    },
+    "others":
+    {
+        "title": "Others",
+        "text": "Other intersting stuff."
+    }
 }

@@ -7,12 +7,13 @@ html, body {
 
 :root {
     --text-color: white;
+    --main-blur: 30px;
 }
 
 body{
     cursor: default;
     font-family: 'Courier New', Courier, monospace;
-    background-image: url("/img/stone-background.jpg");
+    background-image: url("/img/abstract-background-1.jpg");
     background-size: cover;
     background-attachment: fixed;
 }
@@ -43,6 +44,12 @@ div{
     margin: 10px;
     max-width: 300px;
     border-radius: 18px;
+
+    color: var(--text-color);
+    background-color: rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
 }
 
 /* Skills */
@@ -78,10 +85,10 @@ div{
 
 
 /* CARDS */
-.tab-bar, .skill-div, .description-div{
+.tab-bar, .skill-div{
     color: var(--text-color);
     background-color: rgba(255, 255, 255, 0.2);
     box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.25);
-    backdrop-filter: blur(15px);
-    -webkit-backdrop-filter: blur(15px);
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
 }

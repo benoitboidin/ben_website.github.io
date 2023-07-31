@@ -1,7 +1,42 @@
-async function init_tab_description() {
+// function tab_handlers() {
+//     const tabSkills = document.querySelector("#tab-skills");
+//     const tabExperiences = document.querySelector("#tab-experiences");
+//     const tabOthers = document.querySelector("#tab-others");
+
+//     tabSkills.addEventListener("click", () => {
+//         init_tab_description("skills");
+//     }
+//     );
+//     tabExperiences.addEventListener("click", () => {
+//         init_tab_description("experiences");
+//     }
+//     );
+//     tabOthers.addEventListener("click", () => {
+//         init_tab_description("others");
+//     }
+//     );
+// }
+
+async function init_tab_description(tab) {
     try{
         const response = await fetch("../data/tab-descriptions.json");
-        const description = await response.json();
+        let description = await response.json();
+
+        // TODO: manage several descriptions.
+        switch(tab){
+            case "skills":
+                description = description.skills;
+                break;
+            case "experiences":
+                description = description.experiences;
+                break;
+            case "others":
+                description = description.others;
+                break;
+            default:
+                description = description.skills;
+                break;
+        }
 
         const descriptionDiv = document.createElement("div");
         descriptionDiv.classList.add("description-div");
@@ -19,8 +54,8 @@ async function init_tab_description() {
         descriptionDiv.appendChild(descriptionTitle);
         descriptionDiv.appendChild(descriptionText);
 
-        const decsriptionContainer = document.querySelector(".description-container");
-        decsriptionContainer.appendChild(descriptionDiv);
+        const skillContainer = document.querySelector(".skill-container");
+        skillContainer.appendChild(descriptionDiv);
 
     }catch(error){
         console.log(error);
@@ -28,7 +63,7 @@ async function init_tab_description() {
 }
 
 async function init_skills() {
-    init_tab_description();
+    init_tab_description("skills");
     try{
         const response = await fetch("../data/skills.json");
         const skills = await response.json();
@@ -61,5 +96,5 @@ async function init_skills() {
     }
 }
 
-  
+// tab_handlers();
 init_skills();
