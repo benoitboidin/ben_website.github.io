@@ -1,21 +1,6 @@
-// function tab_handlers() {
-//     const tabSkills = document.querySelector("#tab-skills");
-//     const tabExperiences = document.querySelector("#tab-experiences");
-//     const tabOthers = document.querySelector("#tab-others");
-
-//     tabSkills.addEventListener("click", () => {
-//         init_tab_description("skills");
-//     }
-//     );
-//     tabExperiences.addEventListener("click", () => {
-//         init_tab_description("experiences");
-//     }
-//     );
-//     tabOthers.addEventListener("click", () => {
-//         init_tab_description("others");
-//     }
-//     );
-// }
+function tab_handlers() {
+    
+}
 
 async function init_tab_description(tab) {
     try{
@@ -44,12 +29,10 @@ async function init_tab_description(tab) {
         const descriptionTitle = document.createElement("h2");
         descriptionTitle.classList.add("description-title");
         descriptionTitle.textContent = description.title;
-        console.log(description.title);
 
         const descriptionText = document.createElement("p");
         descriptionText.classList.add("description-text");
         descriptionText.textContent = description.text;
-        console.log(description.text);
 
         descriptionDiv.appendChild(descriptionTitle);
         descriptionDiv.appendChild(descriptionText);
@@ -163,5 +146,5 @@ async function init(tab) {
 }
 
 // tab_handlers();
-const tab = "others";
+const tab = "skills";
 init(tab);

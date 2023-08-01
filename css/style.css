@@ -30,15 +30,6 @@ div{
 
 /* MAIN CONTENT */
 
-/* Tab description */
-.description-container{
-    margin-top: 90px;
-
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-}
-
 .description-div{
     padding: 20px;
     margin: 10px;
@@ -53,6 +44,7 @@ div{
 }
 
 .content-container{
+    margin-top: 90px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;

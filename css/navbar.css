@@ -42,9 +42,27 @@
     align-items: center;
 }
 
+
+/* Pas ouf */
+#tab-skills:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#tab-experiences:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#tab-others:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+
 #menu-toggle {
     display: none;
 }
+/* Pas ouf */
 
 .menu-button,
 .menu-button::before,
