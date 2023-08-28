@@ -1,5 +1,23 @@
 function tab_handlers() {
-    
+    const skills = document.getElementById("tab-skills");
+    const experiences = document.getElementById("tab-experiences");
+    const others = document.getElementById("tab-others");
+
+    skills.addEventListener("click", () => {
+        init("skills");
+        console.log("skills");
+    }
+    );
+    experiences.addEventListener("click", () => {
+        init("experiences");
+        console.log("experiences");
+    }
+    );
+    others.addEventListener("click", () => {
+        init("others");
+        console.log("others");
+    }
+    );
 }
 
 async function init_tab_description(tab) {
@@ -120,6 +138,8 @@ function contentOthers(content) {
 
 
 async function init(tab) {
+    const contentContainer = document.querySelector(".content-container");
+    contentContainer.innerHTML = "";
     init_tab_description(tab);
     try{
         const response = await fetch("../data/" + tab + ".json");
@@ -148,3 +168,4 @@ async function init(tab) {
 // tab_handlers();
 const tab = "skills";
 init(tab);
+tab_handlers();
