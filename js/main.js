@@ -2,17 +2,21 @@ function tab_handlers() {
     const skills = document.getElementById("tab-skills");
     const experiences = document.getElementById("tab-experiences");
     const others = document.getElementById("tab-others");
+    const menuToggle = document.getElementById("menu-toggle");
 
     skills.addEventListener("click", () => {
         init("skills");
+        menuToggle.checked = false;
     }
     );
     experiences.addEventListener("click", () => {
         init("experiences");
+        menuToggle.checked = false;
     }
     );
     others.addEventListener("click", () => {
         init("others");
+        menuToggle.checked = false;
     }
     );
 }
