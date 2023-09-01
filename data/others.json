@@ -1,13 +1,18 @@
 [
     {
-        "title": "UNTools",
-        "description": "A collection of tools for better thinking, really nice website.",
-        "link": "https://untools.co"
+        "title": "Linkedin",
+        "description": "My Linkedin profile.",
+        "link": "https://www.linkedin.com/in/benoît-boidin-276124a3/"
     },
     {
-        "title": "Flexbox Froggy",
-        "description": "A game for learning CSS flexbox.",
-        "link": "https://flexboxfroggy.com/"
+        "title": "Github",
+        "description": "My Github profile.",
+        "link": "https://github.com/benoitboidin"
+    },
+    {
+        "title": "Discord",
+        "description": "Contact me on Discord.",
+        "link": "https://discordapp.com/users/bb_ben_"
     },
     {
         "title": "MonProjetSup",

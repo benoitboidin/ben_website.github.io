@@ -5,17 +5,14 @@ function tab_handlers() {
 
     skills.addEventListener("click", () => {
         init("skills");
-        console.log("skills");
     }
     );
     experiences.addEventListener("click", () => {
         init("experiences");
-        console.log("experiences");
     }
     );
     others.addEventListener("click", () => {
         init("others");
-        console.log("others");
     }
     );
 }
