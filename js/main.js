@@ -19,6 +19,7 @@ function tab_handlers() {
         menuToggle.checked = false;
     }
     );
+    console.log("Deployement test (GitHub Actions).");
 }
 
 async function init_tab_description(tab) {
