@@ -6,20 +6,19 @@ function tab_handlers() {
 
     skills.addEventListener("click", () => {
         init("skills");
-        menuToggle.checked = false;
+        menuToggle?.click();
     }
     );
     experiences.addEventListener("click", () => {
         init("experiences");
-        menuToggle.checked = false;
+        menuToggle?.click();
     }
     );
     others.addEventListener("click", () => {
         init("others");
-        menuToggle.checked = false;
+        menuToggle?.click();
     }
     );
-    console.log("Deployement test (GitHub Actions).");
 }
 
 async function init_tab_description(tab) {
