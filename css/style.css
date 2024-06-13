@@ -13,7 +13,7 @@ html, body {
 body{
     cursor: default;
     font-family: 'Courier New', Courier, monospace;
-    background-image: url("/img/abstract-background-1.jpg");
+    background-image: url("/img/fern-background-1.jpg");
     background-size: cover;
     background-attachment: fixed;
 }

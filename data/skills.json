@@ -2,27 +2,17 @@
     {
         "title": "Python",
         "img": "img/python-logo.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "description": "Proficient Python programming acquiered at school and during internships."
     },
     {
         "title": "NumPy",
         "img": "img/numpy-logo.svg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "description": "Acquiered through data science projects."
     },
     {
         "title": "pandas",
         "img": "img/pandas-logo.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-        "title": "scikit-learn",
-        "img": "img/scikit-logo.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
-        "title": "Matplotlib",
-        "img": "img/matplotlib-logo.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "description": "Acquiered through data science projects."    
     },
     {
         "title": "TensorFlow",
@@ -30,18 +20,13 @@
         "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
     },
     {
-        "title": "Keras",
-        "img": "img/keras-logo.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
-    },
-    {
         "title": "NLTK",
         "img": "img/nltk-logo.png",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "description": "Keywork extraction framework."
     },
     {
         "title": "SpaCy",
         "img": "img/spacy-logo.svg",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+        "description": "Keywork extraction framework."
     }
 ]
