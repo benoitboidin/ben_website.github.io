@@ -1,0 +1,4 @@
+baseURL = 'http://benoitboidin.com'
+languageCode = 'en-us'
+title = 'benoit.dev'
+theme = 'hextra'
