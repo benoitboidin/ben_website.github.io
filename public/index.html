@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en"><head>
-	<meta name="generator" content="Hugo 0.129.0">
+	<meta name="generator" content="Hugo 0.129.0"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="robots" content="index, follow" />
+  <meta name="robots" content="noindex, nofollow" />
   <link rel="icon shortcut" href="/favicon.ico" sizes="32x32" />
 <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
 <link rel="icon" href="/favicon-dark.svg" type="image/svg+xml" media="(prefers-color-scheme: dark)" />
@@ -16,7 +16,7 @@
   <meta name="description" content="" />
 
   
-    <link rel="canonical" href="http://benoitboidin.com/" itemprop="url" />
+    <link rel="canonical" href="http://localhost:1313/" itemprop="url" />
   
 
   
@@ -24,24 +24,25 @@
 <meta property="og:title" content="" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="http://benoitboidin.com/" />
+<meta property="og:url" content="http://localhost:1313/" />
 
   
   <meta itemprop="name" content="benoit.dev">
-  <meta itemprop="description" content="Benoit Boidin websiteOverview I’m studying data science and trying make a nice website.
-An attempt to crate a link: yolox">
-  <meta itemprop="wordCount" content="20">
+  <meta itemprop="description" content="Benoit Boidin website Everything here is temporary. I just discovered hugo (the framework used to render this website), and I still need to automate the process of converting my Obsidian notes to make it work here.
+I mainly did all this to show my mom I have a custom domain name (she doesn’t know what it is, but she’s proud of me).
+Overview I’m studying data science and I am trying make a nice website about it.">
+  <meta itemprop="wordCount" content="143">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="benoit.dev">
-  <meta name="twitter:description" content="Benoit Boidin websiteOverview I’m studying data science and trying make a nice website.
-An attempt to crate a link: yolox">
+  <meta name="twitter:description" content="Benoit Boidin website Everything here is temporary. I just discovered hugo (the framework used to render this website), and I still need to automate the process of converting my Obsidian notes to make it work here.
+I mainly did all this to show my mom I have a custom domain name (she doesn’t know what it is, but she’s proud of me).
+Overview I’m studying data science and I am trying make a nice website about it.">
 
-    <link rel="preload" href="/css/compiled/main.min.d435aea8cb8e50ae331fa05c76c556d6671b779c17028efb401727d49467b44d.css" as="style" integrity="sha256-1DWuqMuOUK4zH6BcdsVW1mcbd5wXAo77QBcn1JRntE0=" />
-    <link href="/css/compiled/main.min.d435aea8cb8e50ae331fa05c76c556d6671b779c17028efb401727d49467b44d.css" rel="stylesheet" integrity="sha256-1DWuqMuOUK4zH6BcdsVW1mcbd5wXAo77QBcn1JRntE0=" />
+    <link href="/css/compiled/main.css" rel="stylesheet" />
 
 
 
-  <link href="/css/custom.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" rel="stylesheet" integrity="sha256-47DEQpj8HBSa&#43;/TImW&#43;5JCeuQeRkm5NMpJWZG3hSuFU=" />
+  <link href="/css/custom.css" rel="stylesheet" />
 
 
 
@@ -140,6 +141,10 @@ An attempt to crate a link: yolox">
       <li class="hx-my-2 hx-scroll-my-6 hx-scroll-py-6">
         <a class="hx-font-semibold hx-inline-block hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-300 contrast-more:hx-text-gray-900 contrast-more:hx-underline contrast-more:dark:hx-text-gray-50 hx-w-full hx-break-words" href="#overview">Overview
         </a>
+      </li>
+      <li class="hx-my-2 hx-scroll-my-6 hx-scroll-py-6">
+        <a class="hx-font-semibold hx-inline-block hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-300 contrast-more:hx-text-gray-900 contrast-more:hx-underline contrast-more:dark:hx-text-gray-50 hx-w-full hx-break-words" href="#projects">Projects
+        </a>
       </li></ul>
       <div class="hx-mt-8 hx-border-t hx-bg-white hx-pt-8 hx-shadow-[0_-12px_16px_white] dark:hx-bg-dark dark:hx-shadow-[0_-12px_16px_#111] hx-sticky hx-bottom-0 hx-flex hx-flex-col hx-items-start hx-gap-2 hx-pb-8 dark:hx-border-neutral-800 contrast-more:hx-border-t contrast-more:hx-border-neutral-400 contrast-more:hx-shadow-none contrast-more:dark:hx-border-neutral-400">
         <button aria-hidden="true" id="backToTop" onClick="scrollUp();" class="hx-transition-all hx-duration-75 hx-opacity-0 hx-text-xs hx-font-medium hx-text-gray-500 hover:hx-text-gray-900 dark:hx-text-gray-400 dark:hover:hx-text-gray-100 contrast-more:hx-text-gray-800 contrast-more:dark:hx-text-gray-50">
@@ -157,9 +162,16 @@ An attempt to crate a link: yolox">
       <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
         <h1 class="hx-text-center hx-mt-2 hx-text-4xl hx-font-bold hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100"></h1>
         <div class="content">
-          <h1>Benoit Boidin website</h1><h2>Overview<span class="hx-absolute -hx-mt-20" id="overview"></span>
-    <a href="#overview" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>I&rsquo;m studying data science and trying make a nice website.</p>
-<p>An attempt to crate a link: <a href="/yolox" >yolox</a></p>
+          <h1>Benoit Boidin website</h1><blockquote>
+<p>Everything here is temporary. I just discovered <code>hugo</code> (the framework used to render this website), and I still need to automate the process of converting my Obsidian notes to make it work here.<br>
+I mainly did all this to show my mom I have a custom domain name (she doesn&rsquo;t know what it is, but she&rsquo;s proud of me).</p>
+</blockquote>
+<h2>Overview<span class="hx-absolute -hx-mt-20" id="overview"></span>
+    <a href="#overview" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>I&rsquo;m studying data science and I am trying make a nice website about it.
+I&rsquo;ll put there some corporate resume stuff, and some personal projects, notes and interesting items.</p>
+<p>I&rsquo;ll be happy to connect on <a href="https://fr.linkedin.com/in/beno%c3%aet-boidin-276124a3" target="_blank" rel="noopener">LinkedIn</a>, or <a href="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" target="_blank" rel="noopener">GitHub</a> if you want to see my projects (not much for now). For collaboration, I started using <a href="https://www.malt.fr/profile/benoitboidin" target="_blank" rel="noopener">Malt</a>.</p>
+<h2>Projects<span class="hx-absolute -hx-mt-20" id="projects"></span>
+    <a href="#projects" class="subheading-anchor" aria-label="Permalink for this section"></a></h2><p>The network I used the most is <a href="/yolox" >yolox</a>. I implemented it during my internship at MaxSea International, in order to make it recognize boats.</p>
 
         </div>
       </main>
@@ -185,11 +197,11 @@ An attempt to crate a link: yolox">
   </div>
 </footer>
     
-    <script defer src="/js/main.min.998f7d6b2520d6d9875145cbe14b35964b365b44b3b1bfa6b797a74a9c173b07.js" integrity="sha256-mY99ayUg1tmHUUXL4Us1lks2W0Szsb&#43;mt5enSpwXOwc="></script>
+    <script defer src="/js/main.js" integrity=""></script>
 
 
 <script defer src="/lib/flexsearch/flexsearch.bundle.min.0425860527cc9968f9f049421c7a56b39327d475e2e3a8f550416be3a9134327.js" integrity="sha256-BCWGBSfMmWj58ElCHHpWs5Mn1HXi46j1UEFr46kTQyc="></script>
-    <script defer src="/en.search.min.3db95834d7cbb513c5e7bd8ff469faec73b56798f9d73f74f2e09a725dbbeac2.js" integrity="sha256-PblYNNfLtRPF572P9Gn67HO1Z5j51z908uCacl276sI="></script>
+    <script defer src="/en.search.js" integrity=""></script>
 
 
   </body>
