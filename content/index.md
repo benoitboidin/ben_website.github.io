@@ -1,7 +1,7 @@
-# Benoit Boidin website
+# Benoit Boidin
 
 > Everything here is temporary. I just discovered `hugo` (the framework used to render this website), and I still need to automate the process of converting my Obsidian notes to make it work here.  
-> I mainly did all this to show my mom I have a custom domain name (she doesn't know what it is, but she's proud of me).
+> **I mainly did all this to show mom I have a custom domain name (she doesn't know what it is, but she's proud of me).**
 
 ## Overview
 
@@ -12,4 +12,11 @@ I'll be happy to connect on [LinkedIn](https://fr.linkedin.com/in/benoît-boidin
 
 ## Projects
 
-The network I used the most is [yolox](/yolox). I implemented it during my internship at MaxSea International, in order to make it recognize boats.
+The network I used the most is [YOLOX](/yolox). I implemented it during my internship at MaxSea International, in order to make it recognize boats. During this internship, I worked with [COCO datasets](/coco_format) and visualized it with [FiftyOne](/fiftyone).
+
+I'll put some other projects here, like keyword extraction:
+
+> Some text with keywords blablabla **forest** blablabla **trees** blablabla...  
+> -> And then the extracted keywords: **forest**, **trees**.
+
+Also a `gif` of object detection with YOLOX would be cool, like boats and bounding boxes moving around.

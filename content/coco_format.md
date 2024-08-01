@@ -1,31 +1,29 @@
-# COCO dataset (Common Objects in Context)
-
-[Back to README](../README.md)
+## COCO dataset (Common Objects in Context)
 
 COCO is a large-scale object detection, segmentation, and captioning dataset. COCO has several features:
 
-- Object segmentation
-- Recognition in context
-- Superpixel stuff segmentation
-- 330K images (>200K labeled)
-- 1.5 million object instances
-- 80 object categories
-- 91 stuff categories
-- 5 captions per image
-- 250,000 people with keypoints
+- object segmentation;
+- recognition in context;
+- superpixel segmentation;
+- 330K images (>200K labeled);
+- 1.5 million object instances;
+- 80 object categories;
+- 91 categories;
+- 5 captions per image;
+- 250,000 people with key points;
 
-There are three subset: train and val, that are annotated, and test, which is provided without annotations. This last one is meant to participate in COCO evaluation by submiting prediction on their website. 
+There are three subset: **train** and **val**, that are annotated, and **test**, which is provided without annotations. This last one is meant to participate in COCO evaluation by submitting predictions on their website. 
 
 ## Types dataset
 
 COCO dataset has 6 types of annotations (<https://cocodataset.org/#format-data>):
 
-- object detection
-- keypoints detection
-- stuff segmentation
-- panoptic segmentation
-- densepose
-- image captioning
+- object detection;
+- keypoints detection;
+- stuff segmentation;
+- panoptic segmentation;
+- densepose;
+- image captioning;
 
 ## Annotations structure
 
@@ -66,7 +64,7 @@ license{
 }
 ```
 
-Specific structure for object detection:
+And a task specific structure (here is object detection):
 
 ```json
 annotation{
@@ -86,11 +84,9 @@ categories[{
 }]
 ```
 
-Other formats can be found in the official documentation (link above).
+Other formats can be found in the [official documentation](https://cocodataset.org/#format-data).
 
 ## Base classes
-
-Interesting classes: boat, kite.
 
 ```javascript
  {1: 'person',

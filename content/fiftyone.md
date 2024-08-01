@@ -16,7 +16,7 @@ We use it to have an overview of the different datasets we use, to preprocess th
 
 ### COCO dataset
 
-_See [coco_format](coco_format.md)_
+_See [coco_format](/coco_format)_
 
 ### VOCDetectionDataset
 
