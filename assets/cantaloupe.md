@@ -2,7 +2,6 @@
 
 > **Cantaloupe** is an open-source dynamic image server for the on-demand generation of derivatives of high-resolution source images, that work with the **IIIF Image API** (International Image Interoperability Framework).
 
-
 ## Use Cantaloupe API
 
 See: https://iiif.io/api/image/3.0/#4-image-requests
@@ -10,6 +9,7 @@ See: https://iiif.io/api/image/3.0/#4-image-requests
 ```url
 /cantaloupe/iiif/3/{identifier}/{region}/{size}/{rotation}/{quality}.{format}
 ```
+
 ### Parameters
 
 | identifier      | region        | size     | rotation | quality   | format |

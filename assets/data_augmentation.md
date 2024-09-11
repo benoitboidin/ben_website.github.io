@@ -1,11 +1,9 @@
 # Data augmentation techniques
 
-[Back to README](../README.md)
-
-> Sources: 
-> 
+> Sources:
+>
 > <https://www.sciencedirect.com/science/article/pii/S2590005622000911>
-> 
+>
 > <https://en.wikipedia.org/wiki/Data_augmentation>
 
 ## Used in YOLOX

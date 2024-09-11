@@ -5,8 +5,8 @@
 
 ## Overview
 
-I'm studying data science and I am trying make a nice website about it.
-I'll put there some corporate resume stuff, and some personal projects, notes and interesting items.  
+I'm studying data science and I am trying make a nice website about.
+I'll put there some [corporate resume stuff](../assets/experiences), and some personal projects, notes and interesting items.  
 
 I'll be happy to connect on [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3), or [GitHub](https://github.com/benoitboidin) if you want to see my projects (not much for now). For collaboration, I started using [Malt](https://www.malt.fr/profile/benoitboidin).
 

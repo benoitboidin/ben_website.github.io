@@ -1,6 +1,6 @@
 # FiftyOne: The open-source tool for building high-quality datasets and computer vision models
 
-[Back to README](../README.md)
+[Back](/index.md)
 
 FiftyOne is a Python package that provides a flexible, intuitive interface for:
 
