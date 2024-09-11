@@ -1,10 +1,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>benoit.dev – Posts</title>
+    <title>Portfolio de Benoît Boidin – </title>
     <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on benoit.dev</description>
+    <description>Recent content on Portfolio de Benoît Boidin</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>fr-fr</language>
     
 	  <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -93,25 +93,6 @@
 &lt;/ul&gt;
 &lt;p&gt;
     &lt;img src=&#34;../Screenshot%202024-09-10%20at%2017.28.29.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/posts/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/posts/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Posts&lt;/h1&gt;&lt;blockquote&gt;
-&lt;p&gt;Theses posts are also available on my &lt;a href=&#34;https://fr.linkedin.com/in/beno%c3%aet-boidin-276124a3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LinkedIn&lt;/a&gt; profile&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://localhost:1313/posts/look_at_boats&#34; &gt;J&amp;rsquo;ai passé 6 mois à regarder des bateaux&amp;hellip;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://localhost:1313/posts/identification&#34; &gt;J&amp;rsquo;ai identifié 119 536 navires en une semaine&amp;hellip;&lt;/a&gt;&lt;br&gt;
-&lt;a href=&#34;http://localhost:1313/posts/monprojetsup&#34; &gt;J&amp;rsquo;ai participé à créer MonProjetSup&amp;hellip;&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>

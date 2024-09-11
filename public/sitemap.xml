@@ -2,26 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://benoitboidin.com/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>http://benoitboidin.com/cantaloupe/</loc>
+    <loc>http://localhost:1313/education/</loc>
   </url><url>
-    <loc>http://benoitboidin.com/coco_format/</loc>
+    <loc>http://localhost:1313/experiences/</loc>
   </url><url>
-    <loc>http://benoitboidin.com/data_augmentation/</loc>
+    <loc>http://localhost:1313/posts/</loc>
   </url><url>
-    <loc>http://benoitboidin.com/education/</loc>
+    <loc>http://localhost:1313/posts/identification/</loc>
   </url><url>
-    <loc>http://benoitboidin.com/experiences/</loc>
+    <loc>http://localhost:1313/posts/look_at_boats/</loc>
   </url><url>
-    <loc>http://benoitboidin.com/fiftyone/</loc>
+    <loc>http://localhost:1313/posts/monprojetsup/</loc>
   </url><url>
-    <loc>http://benoitboidin.com/skills/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://benoitboidin.com/yolox/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/categories/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

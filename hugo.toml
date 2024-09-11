@@ -1,4 +1,8 @@
 baseURL = 'http://benoitboidin.com'
-languageCode = 'en-us'
-title = 'benoit.dev'
+languageCode = 'fr-fr'
+title = 'Portfolio de Benoît Boidin'
 theme = 'hextra'
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark.renderer]
+    unsafe = true # Allow HTML in md files
