@@ -5,8 +5,12 @@
 
 ## Résumé
 
-Je viens d'obtenir mon Master Informatique à l'Université de Bordeaux. J'ai listé ici mes [expériences](/experiences), et j'ajouterai quelques projets personels ou informations intéressantes.
+Je viens d'obtenir mon Master Informatique à l'Université de Bordeaux. J'ai listé ici mes [expériences](/experiences), et mon [parcours scolaire](/education).
+
+## Professionel
 
 Je serais heureux de connecter sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) et [GitHub](https://github.com/benoitboidin) où je stocke mes projets. Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).
+
+## Divers
 
 Voilà quelques [posts](/posts/posts) que j'ai fait sur LinkedIn.
