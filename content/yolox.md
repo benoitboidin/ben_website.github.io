@@ -1,8 +1,8 @@
 # YOLOX
 
-[Back](/index.md)
+[Back](/)
 
-## Structure 
+## Structure
 
 YOLO networks are composed of three parts: backbone, neck, and head. The backbone extracts features from the input image, the neck restores spatial information, and the head predicts the bounding boxes and class probabilities.
 
