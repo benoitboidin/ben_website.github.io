@@ -1,5 +1,6 @@
 # Benoit Boidin
 
+[//]: # (Lien vers différentes plateformes professionnelles)
 <div style="display:flex; justify-content:start; align-items:center;">
     <a href="">
         <img src="img/C797B9BB-F9CC-4DCD-82FC-3236A33D6FD1_1_105_c.jpeg" style="height:200px"/>
@@ -26,28 +27,29 @@
 > Je suis Benoît, un jeune **freelance français** passionné par l'entraînement de **modèles de machine learning** !  
 > Ce site présente mon parcours et mes expériences professionnelles.
 
-## Résumé
+## Académique
 
-Lors de ma **Licence**, j'ai appris les statistiques avancées et les sciences cognitives, qui m'ont notamment permis de maîtriser la rigueur de l'expérimentation scientifique.
+- [**Master** Informatique](/education/#master-en-informatique) : mon Master m'a apporté les bases du génie logiciel, et surtout les techniques d'apprentissage automatique. J'ai également été initié au traitement des données, notamment pour l'image et le son.  
+- [**Licence** de Statistiques](/education/#licence-de-statistiques-appliquées) : lors de ma Licence, j'ai appris les statistiques avancées et les sciences cognitives, qui m'ont notamment permis de maîtriser la rigueur de l'expérimentation scientifique.
 
-Mon **Master** m'a apporté les bases du génie logiciel, et surtout les techniques d'apprentissage automatique. J'ai également été initié au traitement des données, notamment pour l'image et le son.  
-Pendant ce master, j'ai eu la chance de collaborer avec le LaBRI (Laboratoire Bordelais de Recherche en Informatique), ou j'ai travaillé sur la création d'un moteur de recherche utilisant les techniques de NLP et de data extraction.  
-Enfin, mon stage de fin d'étude consistant en la création d'un pipeline de computer vision pour la reconnaissance de navires en temps réél.
-
-J'ai listé ici mes [expériences](/experiences), et mon [parcours scolaire](/education).
-
-Pour télécharger mon CV, cliquez sur [la version française](/documents/cv_fr.pdf) ou [la version anglaise](/documents/cv_en.pdf).
+*Pour télécharger mon CV, cliquez sur [la version française](/documents/cv_fr.pdf) ou [la version anglaise](/documents/cv_en.pdf).*
 
 ## Professionel
 
-Je serais heureux de connecter sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) et [GitHub](https://github.com/benoitboidin) où je stocke mes projets. Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).  
+- [Reconnaissance de navires]() : mon stage de fin d'étude a consisté en la création d'un pipeline de computer vision pour la reconnaissance de navires en temps réél.
+- [MonProjetSup]() : pendant mon master, j'ai eu la chance de collaborer avec le LaBRI (Laboratoire Bordelais de Recherche en Informatique), ou j'ai travaillé sur la création d'un moteur de recherche utilisant les techniques de NLP et de data extraction.
+- Analyse de PertInInt : stage qui consistait à l'analyse d'un framework de détection du cancer du sein par ADN et recheche d'amélioration.
+
+Je serais heureux de connecter sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) et [GitHub](https://github.com/benoitboidin) où je stocke mes projets.  
+Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).  
+J'ai listé ici mes [expériences](/experiences).
 
 ## Divers
 
-Voilà quelques [posts](/posts/posts) que j'ai fait sur LinkedIn.  
+Quelques [posts](/posts/posts) que j'ai fait sur LinkedIn.  
 
 Les recommandations de mes anciens superviseurs et collègues : [lettre par Hugo Gimbert](/documents/recommandation_hugo.pdf) (enseignant chercheur au CNRS) et [lettre par Fabien Rhodes](/documents/recommandation_fabien.pdf) (directeur des opérations chez MaxSea).
 
-<br>
-<div class="github-card" data-github="benoitboidin" data-width="400" data-height="" data-theme="default"></div>
-<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
+<!-- <br>
+<div class="github-card" data-github="benoitboidin" data-width="300" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script> -->

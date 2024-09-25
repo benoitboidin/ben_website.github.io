@@ -1,0 +1,97 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio de Benoît Boidin – </title>
+    <link>http://localhost:1313/experiences/</link>
+    <description>Recent content on Portfolio de Benoît Boidin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	  <atom:link href="http://localhost:1313/experiences/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/experiences/ml_boat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiences/ml_boat/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;MaxSea&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Machine Learning Specialist&lt;/strong&gt; • avril 2024 - septembre 2024 (6 mois)&lt;br&gt;
+Stage • Bidart, Nouvelle-Aquitaine, France&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Entraînement d&amp;rsquo;un réseau de neurones (YOLOX) pour la détection temps réelle de navires.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Recherche de données&lt;/li&gt;
+&lt;li&gt;Visualisation et statistiques&lt;/li&gt;
+&lt;li&gt;Clustering et annotation&lt;/li&gt;
+&lt;li&gt;Entraînement&lt;/li&gt;
+&lt;li&gt;Quantization&lt;/li&gt;
+&lt;li&gt;Tests de performances&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/experiences/monprojetsup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiences/monprojetsup/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Laboratoire Bordelais de Recherche en Informatique (LaBRI)&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Développeur Back End&lt;/strong&gt; • septembre 2023 - janvier 2024 (5 mois)&lt;br&gt;
+Freelance • Remote&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Aide à la finalisation du prototype &lt;a href=&#34;https://monprojetsup.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MonProjetSup&lt;/a&gt;. Développement du serveur de et de l&amp;rsquo;UI.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Développeur NLP&lt;/strong&gt; • mai 2022 - septembre 2023 (1 an)&lt;br&gt;
+CDD • Bordeaux, Nouvelle-Aquitaine, France&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Création d&amp;rsquo;un moteur de recherche à l&amp;rsquo;aide de traitement du langage naturel (NLP). Extraction de mots-clefs dans les descriptions des formations. Développement web et intégration de la solution de recherche.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Développeur Machine Learning&lt;/strong&gt; • mai 2022 - septembre 2023 (3 mois)&lt;br&gt;
+Stage • Bordeaux, Nouvelle-Aquitaine, France&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Évaluation de la performance d&amp;rsquo;un modèle de machine learning (SVM) visant à prédire l&amp;rsquo;admissibilité des candidats (Parcoursup) à l&amp;rsquo;enseignement supérieur.
+L&amp;rsquo;objectif du stage est d&amp;rsquo;interpréter l&amp;rsquo;indicateur fourni par le SVM et d&amp;rsquo;évaluer sa précision, tout en accordant une attention particulière aux erreur de type 1 (surévaluation de l&amp;rsquo;admissibilité).&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/experiences/pertinint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/experiences/pertinint/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Laboratoire ERIC&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Développeur Python&lt;/strong&gt; • janvier 2022 - mars 2023 (3 mois)&lt;br&gt;
+Stage • Lyon, Rhône-Alpes, France&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Un cadre intégratif récemment proposé par des chercheurs de l&amp;rsquo;Université de Princeton a permis d&amp;rsquo;identifier les gènes pertinents en repérant ceux dont les sites d&amp;rsquo;interaction ou autres sites fonctionnels sont enrichis en mutations somatiques dans les tumeurs. L&amp;rsquo;objectif du stage est d&amp;rsquo;analyser cette nouvelle méthode et d&amp;rsquo;enrichir le code associé de nouvelles fonctionnalités dans le cas non-Gaussien.&lt;/p&gt;
+&lt;p&gt;Voici ci-après le résultat de mon analyse sous forme de mindmap :&lt;/p&gt;
+&lt;br&gt;
+&lt;object data=&#34;/documents/pertinint_xmind.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;700px&#34;&gt;
+    &lt;embed src=&#34;http://localhost:1313/documents/pertinint_xmind.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://localhost:1313/documents/pertinint_xmind.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;/embed&gt;
+&lt;/object&gt;
+      </description>
+    </item>
+    
+  </channel>
+</rss>
