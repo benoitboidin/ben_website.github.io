@@ -11,3 +11,7 @@ Entraînement d'un réseau de neurones (YOLOX) pour la détection temps réelle 
 4. Entraînement
 5. Quantization
 6. Tests de performances
+
+Ci-dessou le résultat d'un des modèles les plus précis. D'autres modèles plus léger ont été entraînés afin d'être utilisés sur des machines moins puissantes.
+
+![Detection](/img/detected.png)

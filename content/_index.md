@@ -36,9 +36,9 @@
 
 ## Professionel
 
-- [Reconnaissance de navires]() : mon stage de fin d'étude a consisté en la création d'un pipeline de computer vision pour la reconnaissance de navires en temps réél.
-- [MonProjetSup]() : pendant mon master, j'ai eu la chance de collaborer avec le LaBRI (Laboratoire Bordelais de Recherche en Informatique), ou j'ai travaillé sur la création d'un moteur de recherche utilisant les techniques de NLP et de data extraction.
-- Analyse de PertInInt : stage qui consistait à l'analyse d'un framework de détection du cancer du sein par ADN et recheche d'amélioration.
+- [Reconnaissance de navires](/experiences/ml_boat) : mon stage de fin d'étude a consisté en la création d'un pipeline de computer vision pour la reconnaissance de navires en temps réél.
+- [MonProjetSup](/experiences/monprojetsup) : pendant mon master, j'ai eu la chance de collaborer avec le LaBRI (Laboratoire Bordelais de Recherche en Informatique), ou j'ai travaillé sur la création d'un moteur de recherche utilisant les techniques de NLP et de data extraction.
+- [Analyse de PertInInt](/experiences/pertinint) : stage qui consistait à l'analyse d'un framework de détection du cancer du sein par ADN et recheche d'amélioration.
 
 Je serais heureux de connecter sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) et [GitHub](https://github.com/benoitboidin) où je stocke mes projets.  
 Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).  

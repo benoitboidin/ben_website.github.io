@@ -8,6 +8,12 @@
   </url><url>
     <loc>http://localhost:1313/experiences/</loc>
   </url><url>
+    <loc>http://localhost:1313/experiences/ml_boat/</loc>
+  </url><url>
+    <loc>http://localhost:1313/experiences/monprojetsup/</loc>
+  </url><url>
+    <loc>http://localhost:1313/experiences/pertinint/</loc>
+  </url><url>
     <loc>http://localhost:1313/posts/</loc>
   </url><url>
     <loc>http://localhost:1313/posts/identification/</loc>
