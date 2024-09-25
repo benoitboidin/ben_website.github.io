@@ -40,8 +40,14 @@ Pour télécharger mon CV, cliquez sur [la version française](/documents/cv_fr.
 
 ## Professionel
 
-Je serais heureux de connecter sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) et [GitHub](https://github.com/benoitboidin) où je stocke mes projets. Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).
+Je serais heureux de connecter sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) et [GitHub](https://github.com/benoitboidin) où je stocke mes projets. Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).  
 
 ## Divers
 
-Voilà quelques [posts](/posts/posts) que j'ai fait sur LinkedIn.
+Voilà quelques [posts](/posts/posts) que j'ai fait sur LinkedIn.  
+
+Les recommandations de mes anciens superviseurs et collègues : [lettre par Hugo Gimbert](/documents/recommandation_hugo.pdf) (enseignant chercheur au CNRS) et [lettre par Fabien Rhodes](/documents/recommandation_fabien.pdf) (directeur des opérations chez MaxSea).
+
+<br>
+<div class="github-card" data-github="benoitboidin" data-width="400" data-height="" data-theme="default"></div>
+<script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script>
