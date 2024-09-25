@@ -5,7 +5,7 @@
 
 Un cadre intégratif récemment proposé par des chercheurs de l'Université de Princeton a permis d'identifier les gènes pertinents en repérant ceux dont les sites d'interaction ou autres sites fonctionnels sont enrichis en mutations somatiques dans les tumeurs. L'objectif du stage est d'analyser cette nouvelle méthode et d'enrichir le code associé de nouvelles fonctionnalités dans le cas non-Gaussien.  
 
-Voici ci-après le résultat de mon analyse sous forme de mindmap : 
+Voici ci-après le résultat de mon analyse sous forme de mindmap :
 
 <br>
 

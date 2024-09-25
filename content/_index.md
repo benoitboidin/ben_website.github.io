@@ -3,22 +3,26 @@
 [//]: # (Lien vers différentes plateformes professionnelles)
 <div style="display:flex; justify-content:start; align-items:center;">
     <a href="">
-        <img src="img/C797B9BB-F9CC-4DCD-82FC-3236A33D6FD1_1_105_c.jpeg" style="height:200px"/>
+        <img src="img/C797B9BB-F9CC-4DCD-82FC-3236A33D6FD1_1_105_c.jpeg" style="height:250px"/>
     </a>
-    <div>
-        <a href="https://www.fiverr.com/benoitboidin">
+    <div style="margin-left:15px;
+                display: flex;
+                flex-direction: column;
+                justify-content:space-around;
+                height:250px;">
+        <!-- <a href="https://www.fiverr.com/benoitboidin">
             <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/10/62/3d10622f-253d-0ccf-26ec-86a49ce56203/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/1200x630wa.png" 
-            style="height:50px; margin:10px;"
+            style="height:50px;"
             alt="Link to Fiver platform" />
-        </a>
+        </a> -->
         <a href="https://www.malt.fr/profile/benoitboidin">
             <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/57/44/e757440c-56dc-7a83-d983-5ca1b432b390/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1200x630wa.png" 
-            style="height:50px; margin:10px;"
+            style="height:50px;"
             alt="Link to Malt platform" />
         </a>
         <a href="https://fr.linkedin.com/in/benoît-boidin-276124a3">
             <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/f3/2e/baf32ef3-571e-a8c8-d7c1-f12ca29dd2de/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png"  
-            style="height:50px; margin:10px;"
+            style="height:50px;"
             alt="Link to LinkedIn platform" />
         </a>
     </div>
@@ -34,19 +38,18 @@
 
 *Pour télécharger mon CV, cliquez sur [la version française](/documents/cv_fr.pdf) ou [la version anglaise](/documents/cv_en.pdf).*
 
-## Professionel
+## Professionnel
 
-- [Reconnaissance de navires](/experiences/ml_boat) : mon stage de fin d'étude a consisté en la création d'un pipeline de computer vision pour la reconnaissance de navires en temps réél.
-- [MonProjetSup](/experiences/monprojetsup) : pendant mon master, j'ai eu la chance de collaborer avec le LaBRI (Laboratoire Bordelais de Recherche en Informatique), ou j'ai travaillé sur la création d'un moteur de recherche utilisant les techniques de NLP et de data extraction.
-- [Analyse de PertInInt](/experiences/pertinint) : stage qui consistait à l'analyse d'un framework de détection du cancer du sein par ADN et recheche d'amélioration.
+- [Reconnaissance de navires](/experiences/ml_boat) : mon stage de fin d'études a consisté en la création d'un pipeline de computer vision pour la reconnaissance de navires en temps réel.
+- [MonProjetSup](/experiences/monprojetsup) : pendant mon master, j'ai eu la chance de collaborer avec le LaBRI (Laboratoire Bordelais de Recherche en Informatique), où j'ai travaillé sur la création d'un moteur de recherche utilisant les techniques de NLP et de data extraction.
+- [Analyse de PertInInt](/experiences/pertinint) : stage qui consistait à l'analyse d'un framework de détection du cancer du sein par ADN et recherche d'amélioration.
 
-Je serais heureux de connecter sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) et [GitHub](https://github.com/benoitboidin) où je stocke mes projets.  
-Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).  
-J'ai listé ici mes [expériences](/experiences).
+*Je serais heureux de connecter sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) ou [GitHub](https://github.com/benoitboidin).  
+Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).*
 
 ## Divers
 
-Quelques [posts](/posts/posts) que j'ai fait sur LinkedIn.  
+Quelques [posts](/posts/posts) que j'ai publié sur LinkedIn.  
 
 Les recommandations de mes anciens superviseurs et collègues : [lettre par Hugo Gimbert](/documents/recommandation_hugo.pdf) (enseignant chercheur au CNRS) et [lettre par Fabien Rhodes](/documents/recommandation_fabien.pdf) (directeur des opérations chez MaxSea).
 
