@@ -7,6 +7,8 @@
 
 Je viens d'obtenir mon Master Informatique à l'Université de Bordeaux. J'ai listé ici mes [expériences](/experiences), et mon [parcours scolaire](/education).
 
+Pour télécharger mon CV, cliquez sur [la version française](/documents/cv_fr.pdf) ou [la version anglaise](/documents/cv_en.pdf).
+
 ## Professionel
 
 Je serais heureux de connecter sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) et [GitHub](https://github.com/benoitboidin) où je stocke mes projets. Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).
