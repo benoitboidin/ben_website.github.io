@@ -1,31 +1,46 @@
 # Benoit Boidin
 
-> Ce site est encore en construction. Je viens de découvrir `hugo` (le framework utilisé pour ce portfolio), et je dois encore trouver un moyen d'automatiser la conversion de mes notes Obsidian pour qu'elles fonctionnent ici.  
-> **Je fais surtout ça pour montrer à ma maman que j'ai un nom de domaine custom (elle ne sait pas ce que c'est, elle est quand même fière... Je crois).**
+<div style="display:flex; justify-content:start; align-items:center;">
+    <a href="">
+        <img src="img/C797B9BB-F9CC-4DCD-82FC-3236A33D6FD1_1_105_c.jpeg" style="height:200px"/>
+    </a>
+    <div>
+        <a href="https://www.fiverr.com/benoitboidin">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/10/62/3d10622f-253d-0ccf-26ec-86a49ce56203/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/1200x630wa.png" 
+            style="height:50px; margin:10px;"
+            alt="Link to Fiver platform" />
+        </a>
+        <a href="https://www.malt.fr/profile/benoitboidin">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/57/44/e757440c-56dc-7a83-d983-5ca1b432b390/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1200x630wa.png" 
+            style="height:50px; margin:10px;"
+            alt="Link to Malt platform" />
+        </a>
+        <a href="https://fr.linkedin.com/in/benoît-boidin-276124a3">
+            <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/f3/2e/baf32ef3-571e-a8c8-d7c1-f12ca29dd2de/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png"  
+            style="height:50px; margin:10px;"
+            alt="Link to LinkedIn platform" />
+        </a>
+    </div>
+</div>
+
+> Je suis Benoît, un jeune **freelance français** passionné par l'entraînement de **modèles de machine learning** !  
+> Ce site présente mon parcours et mes expériences professionnelles.
 
 ## Résumé
 
-Je viens d'obtenir mon Master Informatique à l'Université de Bordeaux. J'ai listé ici mes [expériences](/experiences), et mon [parcours scolaire](/education).
+Lors de ma **Licence**, j'ai appris les statistiques avancées et les sciences cognitives, qui m'ont notamment permis de maîtriser la rigueur de l'expérimentation scientifique.
+
+Mon **Master** m'a apporté les bases du génie logiciel, et surtout les techniques d'apprentissage automatique. J'ai également été initié au traitement des données, notamment pour l'image et le son.  
+Pendant ce master, j'ai eu la chance de collaborer avec le LaBRI (Laboratoire Bordelais de Recherche en Informatique), ou j'ai travaillé sur la création d'un moteur de recherche utilisant les techniques de NLP et de data extraction.  
+Enfin, mon stage de fin d'étude consistant en la création d'un pipeline de computer vision pour la reconnaissance de navires en temps réél.
+
+J'ai listé ici mes [expériences](/experiences), et mon [parcours scolaire](/education).
 
 Pour télécharger mon CV, cliquez sur [la version française](/documents/cv_fr.pdf) ou [la version anglaise](/documents/cv_en.pdf).
 
 ## Professionel
 
 Je serais heureux de connecter sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) et [GitHub](https://github.com/benoitboidin) où je stocke mes projets. Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).
-
-Mes réseaux :  
-
-<div style="display:flex; justify-content:space-around">
-    <a href="https://www.fiverr.com/users/benoitboidin/seller_dashboard">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/10/62/3d10622f-253d-0ccf-26ec-86a49ce56203/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/1200x630wa.png" style="height:50px">
-    </a>
-    <a href="https://www.malt.fr/dashboard/freelancer/">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/57/44/e757440c-56dc-7a83-d983-5ca1b432b390/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1200x630wa.png" style="height:50px">
-    </a>
-    <a href="https://fr.linkedin.com/in/benoît-boidin-276124a3">
-        <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/f3/2e/baf32ef3-571e-a8c8-d7c1-f12ca29dd2de/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png"  style="height:50px">
-    </a>
-</div>
 
 ## Divers
 
