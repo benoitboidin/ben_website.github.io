@@ -15,3 +15,11 @@ Entraînement d'un réseau de neurones (YOLOX) pour la détection temps réel de
 Ci-dessous le résultat d'un des modèles les plus précis. D'autres modèles plus léger ont été entraînés afin d'être utilisés sur des machines moins puissantes.
 
 ![Detection](/img/detected.png)
+
+Pour realiser l'annotation des datasets de facons efficace, j'ai utilisé les embeddings et la logiciel FiftyOne. Cela m'a permis de travailler avec une carte de similarite (*voir image ci-dessous*) :
+
+![Embeddings](/img/clustering_interface.png)
+
+Ici, ce sont les bateaux pompes qui sont sélectionnés : 
+
+![Sélection](/img/bateaux_pompiers.png)
