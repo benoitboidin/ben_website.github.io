@@ -22,4 +22,4 @@ Je suis maintenant à la recherche d'un nouveau défi et aimerais apporter mes c
   
 Merci à toute l'équipe de MaxSea pour leur collaboration et les bons moments passés ensemble !
 
-![](detected.png)
+![detected](/img/detected.png)

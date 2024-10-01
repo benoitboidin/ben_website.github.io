@@ -1,6 +1,5 @@
 # Benoit Boidin
 
-[//]: # (Lien vers différentes plateformes professionnelles)
 <div style="display:flex; justify-content:start; align-items:center;">
     <a href="">
         <img src="img/C797B9BB-F9CC-4DCD-82FC-3236A33D6FD1_1_105_c.jpeg" style="height:250px"/>

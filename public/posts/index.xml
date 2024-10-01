@@ -32,8 +32,7 @@
 &lt;p&gt;Si deux embeddings ont presque les mêmes chiffres ? L&amp;rsquo;ordinateur en déduit que les images se ressemblent.&lt;/p&gt;
 &lt;p&gt;Grâce à ça (et en ajoutant un peu d&amp;rsquo;ACP et de clustering), on peut créer une carte.&lt;/p&gt;
 &lt;p&gt;Plus qu&amp;rsquo;à entourer les points et donner un nom aux images ! (ici, les bateaux-pompes)&lt;/p&gt;
-&lt;p&gt;
-    &lt;img src=&#34;../bateaux_pompiers.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/bateaux_pompiers.png&#34; alt=&#34;bateaux_pompiers&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
@@ -61,8 +60,7 @@
 &lt;p&gt;Tout ceci en restant en dessous de 92 millisecondes par image (grâce à l&amp;rsquo;optimisation par quantization).&lt;/p&gt;
 &lt;p&gt;Je suis maintenant à la recherche d&amp;rsquo;un nouveau défi et aimerais apporter mes compétences à une organisation qui valorise l&amp;rsquo;innovation et le travail en équipe.&lt;/p&gt;
 &lt;p&gt;Merci à toute l&amp;rsquo;équipe de MaxSea pour leur collaboration et les bons moments passés ensemble !&lt;/p&gt;
-&lt;p&gt;
-    &lt;img src=&#34;../detected.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/detected.png&#34; alt=&#34;detected&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
@@ -91,8 +89,7 @@
 &lt;li&gt;de 72% pour les écart de genre ;&lt;/li&gt;
 &lt;li&gt;de 95% pour les écart sociaux.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;
-    &lt;img src=&#34;../Screenshot%202024-09-10%20at%2017.28.29.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/monprojetsup_feedback.png&#34; alt=&#34;monprojetsup_feedback&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
