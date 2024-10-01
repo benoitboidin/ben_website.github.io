@@ -1,8 +1,10 @@
 # Benoit Boidin
 
-<div style="display:flex; justify-content:start; align-items:center;">
+<div style='display:flex; 
+            justify-content:space-between;
+            align-items:center;'>
     <a href="">
-        <img src="img/C797B9BB-F9CC-4DCD-82FC-3236A33D6FD1_1_105_c.jpeg" style="height:250px"/>
+        <img src="img/C797B9BB-F9CC-4DCD-82FC-3236A33D6FD1_1_105_c.jpeg" style="height:250px; box-shadow: 0px 0px 10px rgba(10, 10, 10, 0.1);"/>
     </a>
     <div style="margin-left:15px;
                 display: flex;
@@ -16,16 +18,18 @@
         </a> -->
         <a href="https://www.malt.fr/profile/benoitboidin">
             <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/57/44/e757440c-56dc-7a83-d983-5ca1b432b390/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/1200x630wa.png" 
-            style="height:50px;"
+            style="height:50px;box-shadow: 0px 0px 20px rgba(251, 66, 70, 0.3);"
             alt="Link to Malt platform" />
         </a>
         <a href="https://fr.linkedin.com/in/benoît-boidin-276124a3">
             <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/f3/2e/baf32ef3-571e-a8c8-d7c1-f12ca29dd2de/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/1200x630wa.png"  
-            style="height:50px;"
+            style="height:50px;box-shadow: 0px 0px 20px rgba(15, 79, 181, 0.3);"
             alt="Link to LinkedIn platform" />
         </a>
     </div>
 </div>
+
+<!-- <img src="img/b5d3692a872936d05a3d770e5327c6ec.gif"/> -->
 
 > Je suis Benoît, un jeune **freelance français** passionné par l'entraînement de **modèles de machine learning** !  
 > Ce site présente mon parcours et mes expériences professionnelles.
