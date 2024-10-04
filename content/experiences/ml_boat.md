@@ -12,9 +12,9 @@ Entraînement d'un réseau de neurones (YOLOX) pour la détection temps réel de
 5. Quantization
 6. Tests de performances
 
-Ce travail a donné lieu à un [mémoire](/documents/memoire.pdf).
+📄 Ce travail a donné lieu à un [mémoire](/documents/memoire.pdf).
 
-Ci-dessous le résultat d'un des modèles les plus précis. D'autres modèles plus léger ont été entraînés afin d'être utilisés sur des machines moins puissantes.
+Ci-dessous le résultat d'un des modèles les plus précis. D'autres modèles plus légers ont été entraînés afin d'être utilisés sur des machines moins puissantes.
 
 ![Detection](/img/detected.png)
 

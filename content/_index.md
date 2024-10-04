@@ -34,36 +34,17 @@
     </div>
 </div>
 
-<!-- <img src="img/b5d3692a872936d05a3d770e5327c6ec.gif"/> -->
 
 > Je suis Benoît, un jeune **freelance français** passionné par l'entraînement de **modèles de machine learning** !  
 > Ce site présente mon parcours et mes expériences professionnelles.
 
-<!-- ## Compétences techniques  
-
-<br>
-<style>
-    .competences {box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
-                border-radius:20px; padding:3px; padding-left:10px; padding-right:10px;}
-</style>
-
-<div id="competences" style='display:flex; justify-content:space-between; align-items:center; width:"100%";'></div>
-
-<script>
-    var arrayVariable = ['Python','SQL','PyTorch', 'TensorFlow', 'Pandas','Python','SQL','PyTorch', 'TensorFlow', 'Pandas','Python','SQL','PyTorch', 'TensorFlow', 'Pandas','Python','SQL','PyTorch', 'TensorFlow', 'Pandas', 'NumPy'];
-        arrayLength = arrayVariable.length;
-
-    for (i = 0; i < arrayLength; i++) {
-        document.getElementById('competences').innerHTML += '<div class="competences">' + arrayVariable[i]  + '</div>';
-    }
-</script> -->
 
 ## Académique
 
 - [**Master** Informatique](/education/#master-en-informatique) : mon Master m'a apporté les bases du génie logiciel, et surtout les techniques d'apprentissage automatique. J'ai également été initié au traitement des données, notamment pour l'image et le son.  
 - [**Licence** de Statistiques](/education/#licence-de-statistiques-appliquées) : lors de ma Licence, j'ai appris les statistiques avancées et les sciences cognitives, qui m'ont notamment permis de maîtriser la rigueur de l'expérimentation scientifique.
 
-*Pour télécharger mon CV, cliquez sur [la version française](/documents/cv_fr.pdf) ou [la version anglaise](/documents/cv_en.pdf).*
+📄 *Pour télécharger mon CV, cliquez sur [la version française](/documents/cv_fr.pdf) ou [la version anglaise](/documents/cv_en.pdf).*
 
 ## Professionnel
 
@@ -80,6 +61,28 @@ Quelques [posts](/posts/posts) que j'ai publié sur LinkedIn.
 
 Les recommandations de mes anciens superviseurs et collègues : [lettre par Hugo Gimbert](/documents/recommandation_hugo.pdf) (enseignant chercheur au CNRS) et [lettre par Fabien Rhodes](/documents/recommandation_fabien.pdf) (directeur des opérations chez MaxSea).
 
+Une représentation d'un dataset sous forme de carte de similarité (calcul d'embeddings, clustering, ACP) : 
+
+<img src="img/resnet101_umap_cropped.jpg"/>
+
 <!-- <br>
 <div class="github-card" data-github="benoitboidin" data-width="300" data-height="" data-theme="default"></div>
 <script src="//cdn.jsdelivr.net/github-cards/latest/widget.js"></script> -->
+
+<!-- ## Compétences techniques  
+
+<br>
+<style>
+    .competences {box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+                border-radius:10px; padding:3px; padding-left:10px; padding-right:10px;}
+</style>
+
+<div id="competences" style='display:flex; justify-content:space-between; align-items:center; width:"100px";'>
+    <script>
+        var arrayVariable = ['Python','SQL','PyTorch', 'TensorFlow', 'Pandas','Python','SQL','PyTorch', 'TensorFlow', 'Pandas','Python','SQL','PyTorch', 'TensorFlow', 'Pandas','Python','SQL','PyTorch', 'TensorFlow', 'Pandas', 'NumPy'];
+            arrayLength = arrayVariable.length;
+        for (i = 0; i < arrayLength; i++) {
+            document.getElementById('competences').innerHTML += '<div class="competences">' + arrayVariable[i]  + '</div>';
+        }
+    </script>
+</div> -->
