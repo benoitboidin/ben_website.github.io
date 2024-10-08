@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio de Benoît Boidin – </title>
-    <link>http://localhost:1313/experiences/</link>
+    <link>http://benoitboidin.com/experiences/</link>
     <description>Recent content on Portfolio de Benoît Boidin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     
-	  <atom:link href="http://localhost:1313/experiences/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://benoitboidin.com/experiences/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/experiences/ml_boat/</link>
+      <link>http://benoitboidin.com/experiences/ml_boat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiences/ml_boat/</guid>
+      <guid>http://benoitboidin.com/experiences/ml_boat/</guid>
       <description>
         
         
@@ -36,23 +36,23 @@ Stage • Bidart, Nouvelle-Aquitaine, France&lt;/p&gt;
 &lt;li&gt;Quantization&lt;/li&gt;
 &lt;li&gt;Tests de performances&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Ce travail a donné lieu à un &lt;a href=&#34;http://localhost:1313/documents/memoire.pdf&#34; &gt;mémoire&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Ci-dessous le résultat d&amp;rsquo;un des modèles les plus précis. D&amp;rsquo;autres modèles plus léger ont été entraînés afin d&amp;rsquo;être utilisés sur des machines moins puissantes.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/detected.png&#34; alt=&#34;Detection&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;📄 Ce travail a donné lieu à un &lt;a href=&#34;http://benoitboidin.com/documents/memoire.pdf&#34; &gt;mémoire&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ci-dessous le résultat d&amp;rsquo;un des modèles les plus précis. D&amp;rsquo;autres modèles plus légers ont été entraînés afin d&amp;rsquo;être utilisés sur des machines moins puissantes.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/detected.png&#34; alt=&#34;Detection&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Pour realiser l&amp;rsquo;annotation des datasets de facons efficace, j&amp;rsquo;ai utilisé les embeddings et la logiciel FiftyOne. Cela m&amp;rsquo;a permis de travailler avec une carte de similarite (&lt;em&gt;voir image ci-dessous&lt;/em&gt;) :&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/clustering_interface.png&#34; alt=&#34;Embeddings&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/clustering_interface.png&#34; alt=&#34;Embeddings&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Ici, ce sont les bateaux pompes qui sont sélectionnés :&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/bateaux_pompiers.png&#34; alt=&#34;Sélection&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/bateaux_pompiers.png&#34; alt=&#34;Sélection&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/experiences/monprojetsup/</link>
+      <link>http://benoitboidin.com/experiences/monprojetsup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiences/monprojetsup/</guid>
+      <guid>http://benoitboidin.com/experiences/monprojetsup/</guid>
       <description>
         
         
@@ -78,10 +78,10 @@ L&amp;rsquo;objectif du stage est d&amp;rsquo;interpréter l&amp;rsquo;indicateu
     
     <item>
       <title></title>
-      <link>http://localhost:1313/experiences/pertinint/</link>
+      <link>http://benoitboidin.com/experiences/pertinint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/experiences/pertinint/</guid>
+      <guid>http://benoitboidin.com/experiences/pertinint/</guid>
       <description>
         
         
@@ -93,8 +93,8 @@ Stage • Lyon, Rhône-Alpes, France&lt;/p&gt;
 &lt;p&gt;Voici ci-après le résultat de mon analyse sous forme de mindmap :&lt;/p&gt;
 &lt;br&gt;
 &lt;object data=&#34;/documents/pertinint_xmind.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;700px&#34;&gt;
-    &lt;embed src=&#34;http://localhost:1313/documents/pertinint_xmind.pdf&#34;&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://localhost:1313/documents/pertinint_xmind.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;embed src=&#34;http://benoitboidin.com/documents/pertinint_xmind.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://benoitboidin.com/documents/pertinint_xmind.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
     &lt;/embed&gt;
 &lt;/object&gt;
       </description>

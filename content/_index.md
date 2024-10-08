@@ -34,10 +34,8 @@
     </div>
 </div>
 
-
-> Je suis Benoît, un jeune **freelance français** passionné par l'entraînement de **modèles de machine learning** !  
+> Je suis Benoît, un jeune français passionné par l'entraînement de **modèles de machine learning** !  
 > Ce site présente mon parcours et mes expériences professionnelles.
-
 
 ## Académique
 
