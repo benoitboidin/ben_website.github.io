@@ -34,8 +34,8 @@
     </div>
 </div>
 
-> Je suis Benoît, un jeune français passionné par l'entraînement de **modèles de machine learning** !  
-> Ce site présente mon parcours et mes expériences professionnelles.
+> Je suis Benoît, un jeune français passionné par l'entraînement de **modèles de machine learning** ! Ce site présente mon parcours et mes expériences professionnelles.  
+> Travaillons ensemble sur [Malt](<https://www.malt.fr/profile/benoitboidin>).
 
 ## Expériences
 
@@ -43,8 +43,7 @@
 - [**MonProjetSup**](/experiences/monprojetsup) : pendant mon master, j'ai eu la chance de collaborer avec le LaBRI (Laboratoire Bordelais de Recherche en Informatique), où j'ai travaillé sur la création d'un moteur de recherche utilisant les techniques de NLP et de data extraction.
 - [**Analyse de PertInInt**](/experiences/pertinint) : stage qui consistait à l'analyse d'un framework de détection du cancer du sein par ADN et recherche d'amélioration.
 
-*Je serais heureux de connecter sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) ou [GitHub](https://github.com/benoitboidin).  
-Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).*
+📄 *Les recommandations de mes anciens superviseurs et collègues : [lettre par Hugo Gimbert](/documents/recommandation_hugo.pdf) (enseignant chercheur au CNRS) et [lettre par Fabien Rhodes](/documents/recommandation_fabien.pdf) (directeur des opérations chez MaxSea).*
 
 ## Académique
 
@@ -55,11 +54,11 @@ Pour collaborer, j'utilise [Malt](<https://www.malt.fr/profile/benoitboidin>).*
 
 ## Divers
 
+Connectons nous sur [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3) ou [GitHub](https://github.com/benoitboidin) !  
+
 Quelques [posts](/posts/posts) que j'ai publié sur LinkedIn.  
 
-Les recommandations de mes anciens superviseurs et collègues : [lettre par Hugo Gimbert](/documents/recommandation_hugo.pdf) (enseignant chercheur au CNRS) et [lettre par Fabien Rhodes](/documents/recommandation_fabien.pdf) (directeur des opérations chez MaxSea).
-
-Une représentation d'un dataset sous forme de carte de similarité (calcul d'embeddings, clustering, ACP) : 
+Une représentation d'un dataset sous forme de carte de similarité (calcul d'embeddings, clustering, ACP) :
 
 <img src="img/resnet101_umap_cropped.jpg"/>
 
