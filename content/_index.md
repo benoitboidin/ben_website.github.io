@@ -4,7 +4,7 @@
             justify-content:space-between;
             align-items:center;'>
     <a href="">
-        <img src="img/profile.jpeg" style="height:250px; box-shadow: 0px 0px 10px rgba(10, 10, 10, 0.1);"/>
+        <img src="img/profile_costume.jpeg" style="height:250px; box-shadow: 0px 0px 10px rgba(10, 10, 10, 0.1);"/>
     </a>
     <div style="margin-left:15px;
                 display: flex;
