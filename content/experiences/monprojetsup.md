@@ -18,4 +18,4 @@ L'objectif du stage est d'interpréter l'indicateur fourni par le SVM et d'éval
 
 Pendant toutes ces étapes, j'ai pu apprendre des compétences très variées comme le sous titrage de vidéos tutorielles et l'utilisation de Figma pour le maquettage.
 
-<img src="img/figma_mps.png">
+![Detection](/img/figma_mps.png)
