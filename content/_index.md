@@ -80,6 +80,7 @@ Une représentation d'un dataset sous forme de carte de similarité (calcul d'em
     </script>
 </div> -->
 
+
 <!-- Include the library. -->
 <script
   src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
@@ -88,7 +89,7 @@ Une représentation d'un dataset sous forme de carte de similarité (calcul d'em
 <!-- Optionally, include the theme (if you don't want to struggle to write the CSS) -->
 <link
   rel="stylesheet"
-  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+  href="https://raw.githubusercontent.com/Bloggify/github-calendar/refs/heads/gh-pages/dist/github-calendar.css"
 />
 
 <!-- Prepare a container for your calendar. -->
