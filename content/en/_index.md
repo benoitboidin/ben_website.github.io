@@ -34,9 +34,9 @@
 
 ## Experiences
 
-- [**Boat detection**](/experiences/ml_boat) _(6 months)_ : final internship (Master degree) consisting in training neural network for real time ship detection. 
-- [**MonProjetSup**](/experiences/monprojetsup) _(2 years)_ : during my master degree, I had the chance to be the first student ever employed by the French National Scientific Research Center (CNRS) at Bordeaux, where I created a search engin using natural language processing and data extraction.  
-- [**Analyse de PertInInt**](/experiences/pertinint) _(2 month)_ : this internship was about analysing a DNA cancer detection framework and searching for ways of improvement.  
+- [**Boat detection**](/en/experiences/ml_boat) _(6 months)_ : final internship (Master degree) consisting in training neural network for real time ship detection. 
+- [**MonProjetSup**](/en/experiences/monprojetsup) _(2 years)_ : during my master degree, I had the chance to be the first student ever employed by the French National Scientific Research Center (CNRS) at Bordeaux, where I created a search engin using natural language processing and data extraction.  
+- [**Analyse de PertInInt**](/en/experiences/pertinint) _(2 month)_ : this internship was about analysing a DNA cancer detection framework and searching for ways of improvement.  
 
 📄 _Les recommandations de mes anciens superviseurs et collègues : [lettre par Hugo Gimbert](/documents/recommandation_hugo.pdf) (enseignant chercheur au CNRS) et [lettre par Fabien Rhodes](/documents/recommandation_fabien.pdf) (directeur des opérations chez MaxSea)._
 
@@ -44,10 +44,9 @@
 
 ## Scholarship
 
-- [**Master** Computer Science](/education/#master-en-informatique) : during this two years, I learned computer science architectures, signal processing and machine learning. I also had image and sound analysis courses.  
+- [**Master** of Computer Science](/education/#master-en-informatique) : during this two years, I learned computer science architectures, signal processing and machine learning. I also had image and sound analysis courses.  
 - **English learning journey at University California San Diego** in order to be fluent.  
-- [**Licence** de Statistiques](/education/#licence-de-statistiques-appliquées) : lors de ma Licence, j'ai appris les statistiques avancées et les sciences cognitives, qui m'ont notamment permis de maîtriser la rigueur de l'expérimentation scientifique.
-- courses included advanced statistics and cognitive sciences, which taught me how to conduct scientific experiments.
+- [**Bachelor** of Applied Statistics](/education/#licence-de-statistiques-appliquées) : courses included advanced statistics and cognitive sciences, which taught me how to conduct scientific experiments.
 
 📄 _To view my resume, click on [french version](/documents/cv_fr.pdf) or [english version](/documents/cv_en.pdf)._
 

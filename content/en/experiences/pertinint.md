@@ -1,11 +1,12 @@
-# Laboratoire ERIC
+# ERIC Laboratory
 
-> **Développeur Python** • janvier 2022 - mars 2023 (3 mois)  
+> **Python Developper** • January 2022 - March 2023 (3 months)  
 > Stage • Lyon, Rhône-Alpes, France
 
-Un cadre intégratif récemment proposé par des chercheurs de l'Université de Princeton a permis d'identifier les gènes pertinents en repérant ceux dont les sites d'interaction ou autres sites fonctionnels sont enrichis en mutations somatiques dans les tumeurs. L'objectif du stage est d'analyser cette nouvelle méthode et d'enrichir le code associé de nouvelles fonctionnalités dans le cas non-Gaussien.  
 
-Voici ci-après le résultat de mon analyse sous forme de mindmap :
+Improvement of PertInInt, a genetic cancer identification framework so it can work in the gaussian case.
+
+Here is a mindmap I created to better understand the framework :
 
 <br>
 

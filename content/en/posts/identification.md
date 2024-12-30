@@ -1,21 +1,21 @@
-# J'ai identifié 119 536 navires en une semaine...
+# I classified 119 536 ships in a week...
 
-(et j'ai même eu du temps libre)
+(and I even had spare time)
 
-Lors de mon passage chez MaxSea, j'ai entraîné un réseau de neurones sur des milliers d'images.
+During my internship at MaxSea, I trained a neural network on thousand of images.  
 
-Le problème ? Elles avaient toutes un label différent.
+The issue was... They all had a different label. 
 
-"Boat", "ship", "vessel", ou même "small-tug-distant-blurry" : impossible de tout mélanger sans que les performances du modèle s'effondrent.
+"Boat", "ship", "vessel", or even "small-tug-distant-blurry" : I couldn't mix everything without the model precision collapsing. 
 
-J'ai donc classifié moi-même chaque image, à l'aide d'un outil formidable, les embeddings.
+What did I do then? I classified every single image using one of the best ML tools: embeddings.
 
-Qu'est-ce que c'est ? Une liste de chiffres qui permettent de décrire une image à un ordinateur.
+What is it? It's like a numbers list (a vector) which describes and image in a way a computer can understand.
 
-Si deux embeddings ont presque les mêmes chiffres ? L'ordinateur en déduit que les images se ressemblent.
+What if two embeddings contains almost the same numbers? Then the images are probably almost identical.
 
-Grâce à ça (et en ajoutant un peu d'ACP et de clustering), on peut créer une carte.
+Thanks to this (and some clustering and dimension reduction), we can create a map.
 
-Plus qu'à entourer les points et donner un nom aux images ! (ici, les bateaux-pompes)
+Then I just had to select points and give a category to the images! (Here are some fireboats)
 
 ![bateaux_pompiers](/img/bateaux_pompiers.png)

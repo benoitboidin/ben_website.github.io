@@ -34,7 +34,7 @@
 
 ## Expériences
 
-- [**Reconnaissance de navires**](/experiences/ml_boat) _(6 mois)_ : mon stage de fin d'études a consisté en la création d'un modèle d'intelligence artificielle pour la reconnaissance de navires en temps réel.
+- [**Reconnaissance de navires**](/fr/experiences/ml_boat) _(6 mois)_ : mon stage de fin d'études a consisté en la création d'un modèle d'intelligence artificielle pour la reconnaissance de navires en temps réel.
 - [**MonProjetSup**](/experiences/monprojetsup) _(2 ans)_ : pendant mon master, j'ai eu la chance d'être le premier étudiant à être embauché pour collaborer avec le CNRS - LaBRI (Laboratoire Bordelais de Recherche en Informatique), où j'ai travaillé sur la création d'un moteur de recherche utilisant les techniques de NLP et de data extraction.
 - [**Analyse de PertInInt**](/experiences/pertinint) _(2 mois)_ : ce stage volontaire consistait en l'analyse d'un framework de détection du cancer du sein par ADN et à la recherche d'amélioration.  
 

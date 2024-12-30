@@ -23,15 +23,15 @@
       <description>
         
         
-        &lt;h1&gt;J&amp;rsquo;ai identifié 119 536 navires en une semaine&amp;hellip;&lt;/h1&gt;&lt;p&gt;(et j&amp;rsquo;ai même eu du temps libre)&lt;/p&gt;
-&lt;p&gt;Lors de mon passage chez MaxSea, j&amp;rsquo;ai entraîné un réseau de neurones sur des milliers d&amp;rsquo;images.&lt;/p&gt;
-&lt;p&gt;Le problème ? Elles avaient toutes un label différent.&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Boat&amp;rdquo;, &amp;ldquo;ship&amp;rdquo;, &amp;ldquo;vessel&amp;rdquo;, ou même &amp;ldquo;small-tug-distant-blurry&amp;rdquo; : impossible de tout mélanger sans que les performances du modèle s&amp;rsquo;effondrent.&lt;/p&gt;
-&lt;p&gt;J&amp;rsquo;ai donc classifié moi-même chaque image, à l&amp;rsquo;aide d&amp;rsquo;un outil formidable, les embeddings.&lt;/p&gt;
-&lt;p&gt;Qu&amp;rsquo;est-ce que c&amp;rsquo;est ? Une liste de chiffres qui permettent de décrire une image à un ordinateur.&lt;/p&gt;
-&lt;p&gt;Si deux embeddings ont presque les mêmes chiffres ? L&amp;rsquo;ordinateur en déduit que les images se ressemblent.&lt;/p&gt;
-&lt;p&gt;Grâce à ça (et en ajoutant un peu d&amp;rsquo;ACP et de clustering), on peut créer une carte.&lt;/p&gt;
-&lt;p&gt;Plus qu&amp;rsquo;à entourer les points et donner un nom aux images ! (ici, les bateaux-pompes)&lt;/p&gt;
+        &lt;h1&gt;I classified 119 536 ships in a week&amp;hellip;&lt;/h1&gt;&lt;p&gt;(and I even had spare time)&lt;/p&gt;
+&lt;p&gt;During my internship at MaxSea, I trained a neural network on thousand of images.&lt;/p&gt;
+&lt;p&gt;The issue was&amp;hellip; They all had a different label.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Boat&amp;rdquo;, &amp;ldquo;ship&amp;rdquo;, &amp;ldquo;vessel&amp;rdquo;, or even &amp;ldquo;small-tug-distant-blurry&amp;rdquo; : I couldn&amp;rsquo;t mix everything without the model precision collapsing.&lt;/p&gt;
+&lt;p&gt;What did I do then? I classified every single image using one of the best ML tools: embeddings.&lt;/p&gt;
+&lt;p&gt;What is it? It&amp;rsquo;s like a numbers list (a vector) which describes and image in a way a computer can understand.&lt;/p&gt;
+&lt;p&gt;What if two embeddings contains almost the same numbers? Then the images are probably almost identical.&lt;/p&gt;
+&lt;p&gt;Thanks to this (and some clustering and dimension reduction), we can create a map.&lt;/p&gt;
+&lt;p&gt;Then I just had to select points and give a category to the images! (Here are some fireboats)&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/bateaux_pompiers.png&#34; alt=&#34;bateaux_pompiers&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
@@ -46,20 +46,20 @@
       <description>
         
         
-        &lt;h1&gt;J&amp;rsquo;ai passé 6 mois à regarder des bateaux&amp;hellip;&lt;/h1&gt;&lt;p&gt;(et j&amp;rsquo;espère trouver un job grâce à ça)&lt;/p&gt;
-&lt;p&gt;✅ MaxSea International propose un logiciel de surveillance maritime, qui inclut la gestion de caméras.&lt;/p&gt;
-&lt;p&gt;❌ Ce qu&amp;rsquo;ils ne proposent pas, c&amp;rsquo;est quelqu&amp;rsquo;un qui reste éveillé 24/7 derrière l&amp;rsquo;écran pour surveiller l&amp;rsquo;océan.&lt;/p&gt;
-&lt;p&gt;C&amp;rsquo;est ici que mes compétences en machine learning interviennent.&lt;/p&gt;
-&lt;p&gt;En 3 étapes, j&amp;rsquo;ai pu résoudre leur problème :&lt;/p&gt;
+        &lt;h1&gt;I spent 6 months looking at boats&amp;hellip;&lt;/h1&gt;&lt;p&gt;(and I hope to find a job with that)&lt;/p&gt;
+&lt;p&gt;✅ MaxSea International sells a marine surveillance software with camera management.&lt;/p&gt;
+&lt;p&gt;❌ What they don&amp;rsquo;t sell is someone looking at the camera screens 24/7.&lt;/p&gt;
+&lt;p&gt;So here I came with some machine learning knowledge.&lt;/p&gt;
+&lt;p&gt;It took me 3 steps to solve their issue:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;récolter des centaines de milliers d&amp;rsquo;images de navires ;&lt;/li&gt;
-&lt;li&gt;les classifier grâce au clustering ;&lt;/li&gt;
-&lt;li&gt;entraîner un réseau de neurones ;&lt;/li&gt;
+&lt;li&gt;gather thousand of boat pictures ;&lt;/li&gt;
+&lt;li&gt;classify it with clustering ;&lt;/li&gt;
+&lt;li&gt;train a detection neural network.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Le résultat ? La précision de leur modèle a augmenté de 45%.&lt;/p&gt;
-&lt;p&gt;Tout ceci en restant en dessous de 92 millisecondes par image (grâce à l&amp;rsquo;optimisation par quantization).&lt;/p&gt;
-&lt;p&gt;Je suis maintenant à la recherche d&amp;rsquo;un nouveau défi et aimerais apporter mes compétences à une organisation qui valorise l&amp;rsquo;innovation et le travail en équipe.&lt;/p&gt;
-&lt;p&gt;Merci à toute l&amp;rsquo;équipe de MaxSea pour leur collaboration et les bons moments passés ensemble !&lt;/p&gt;
+&lt;p&gt;The result? Model precision augmented by 45%.&lt;/p&gt;
+&lt;p&gt;And it&amp;rsquo;s real time (thanks to quantization).&lt;/p&gt;
+&lt;p&gt;I am know looking for a new opportunity to challenge me and bring my knowledge to an organisation that need innovation and teamm work.&lt;/p&gt;
+&lt;p&gt;Thanks to the MaxSea team for this collaboration!&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/detected.png&#34; alt=&#34;detected&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
@@ -74,20 +74,20 @@
       <description>
         
         
-        &lt;h1&gt;J&amp;rsquo;ai participé à créer MonProjetSup&amp;hellip;&lt;/h1&gt;&lt;p&gt;(à cause du genre et de la classe sociale)&lt;/p&gt;
-&lt;p&gt;Pendant mon Master en Informatique (2022/2024), j&amp;rsquo;ai eu la chance d&amp;rsquo;être embauché par le développeur de l&amp;rsquo;algorithme au cœur de ParcourSup.&lt;/p&gt;
-&lt;p&gt;✅ Cette algorithme a, dans de nombreux cas, prouvé son utilité.&lt;/p&gt;
-&lt;p&gt;❌ Mais selon &lt;a href=&#34;https://rschmacker.github.io/files/JMP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cette étude&lt;/a&gt;, ça ne suffit pas.&lt;/p&gt;
-&lt;p&gt;Les élèves féminins ou issus des classes sociales populaires ont largement tendance à sous-estimer leurs capacités.&lt;/p&gt;
-&lt;p&gt;Résultat : ils ne postulent qu&amp;rsquo;à des formations qui ne reflètent pas leur vrai niveau.&lt;/p&gt;
-&lt;p&gt;La réponse à ce problème ? &lt;a href=&#34;https://monprojetsup.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MonProjetSup&lt;/a&gt; (version Beta).&lt;/p&gt;
-&lt;p&gt;Le prototype que nous avons créé pose les bases d&amp;rsquo;un moteur de recherche personnalisé pour chaque candidat.&lt;/p&gt;
-&lt;p&gt;De plus, il permet aux élèves d&amp;rsquo;estimer leurs chances de réussite grâce à des indicateurs comme les prérequis ou la moyennes des admis de l&amp;rsquo;année précédente.&lt;/p&gt;
-&lt;p&gt;Pourquoi ce feedback est important ? C&amp;rsquo;est la question que j&amp;rsquo;ai eu la chance de poser aux chercheurs.&lt;/p&gt;
-&lt;p&gt;Voici leur réponse : l&amp;rsquo;information du rang permet de réduire significativement le rôle joué par la confiance en soi :&lt;/p&gt;
+        &lt;h1&gt;J&amp;rsquo;ai participé à créer MonProjetSup&amp;hellip;&lt;/h1&gt;&lt;h1&gt;I helped to create MonProjetSup&amp;hellip;&lt;/h1&gt;&lt;p&gt;(because of gender and social inequality)&lt;/p&gt;
+&lt;p&gt;During my CS Master degree, I had the chance to be hired by the developper of ParcourSup.&lt;/p&gt;
+&lt;p&gt;✅ This algorithm is extremely helpful.&lt;/p&gt;
+&lt;p&gt;❌ However, &lt;a href=&#34;https://rschmacker.github.io/files/JMP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;this paper&lt;/a&gt; desmonstrate it&amp;rsquo;s not enough.&lt;/p&gt;
+&lt;p&gt;Women and lower social class student tend to under estimate their competences.&lt;/p&gt;
+&lt;p&gt;The result: they don&amp;rsquo;t apply to some university, even if they could.&lt;/p&gt;
+&lt;p&gt;The solution? &lt;a href=&#34;https://monprojetsup.fr&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MonProjetSup&lt;/a&gt; (Beta version).&lt;/p&gt;
+&lt;p&gt;This prototype is basically a personnalized search engine.&lt;/p&gt;
+&lt;p&gt;It allows student to esimate their chances of success thanks to metrics like last years admissions.&lt;/p&gt;
+&lt;p&gt;Why is this feedback needed? That&amp;rsquo;s what I asked the paper authors.&lt;/p&gt;
+&lt;p&gt;Their response: information help reduce significatively the influence of self trust:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;de 72% pour les écart de genre ;&lt;/li&gt;
-&lt;li&gt;de 95% pour les écart sociaux.&lt;/li&gt;
+&lt;li&gt;by 72 for gender inequality ;&lt;/li&gt;
+&lt;li&gt;by 95 for social inequality.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/monprojetsup_feedback.png&#34; alt=&#34;monprojetsup_feedback&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 

@@ -1,48 +1,47 @@
 # MaxSea
 
-> **Machine Learning Specialist** • avril 2024 - septembre 2024 (6 mois)  
-> Stage • Bidart, Nouvelle-Aquitaine, France
+> **Machine Learning Specialist** • april 2024 - september 2024 (6 month)  
+> Internship • Bidart, Nouvelle-Aquitaine, France
 
-Entraînement d'un réseau de neurones (YOLOX) pour la détection temps réel de navires.
+Neural network (YOLOX) training for real time ship detection and tracking.  
 
-## 1. Recherche de données
+## 1. Data gathering
 
-L'amélioration du modèle a commencé par l'augmentation du dataset d'entraînement. Grâce à mes recherches, la taille de ce dataset est passé de 18 000 à plus de 110 000 images, contenant environ 290 000 navires.  
-Après exploration, j'ai remarqué que certaines sources étaient composées d'images très similaires entre elles. J'ai donc mis en place, grâce aux embeddings, un filtre de similarité, qui m'a permis d'éviter l'overfitting.
+Improving YOLOX performance started by creating a boat detection dataset. I managed to gather more than 110 000 images with about 290 000 ships.  
 
-## 2. Visualisation et statistiques
+By exploring the dataset with FiftyOne, I detected some duplicates and similar images. Thanks to embeddings, I created a similarity filter that I used to avoir overfitting. 
 
-Les embeddings m'ont aussi permis de plonger plus en profondeur au cœur des données : j'ai détecter des clusters représentant des objets qui n'étaient pas utiles à l'entraînement, comme des sous-marins.  
-Du côté des statistiques, j'ai évalué la taille moyenne des détections, les dimensions des images, mais surtout ne nombre de bateaux par classe (pour éviter tout déséquilibre).
+## 2. Visualization and statistics
 
-## 3. Clustering et annotation
+Embeddings allowed me to go deeper into the dataset: I detected clusters of unwanted objects like submarines. I computed statistics on detection size, image dimensions and number of objects per class of boat (to avoid unbalaced categories).  
 
-Pour permettre au modèle de classifier les navires, j'ai entrepris d'annoter les datasets. J'ai utilisé pour cela les embeddings calculés précédemment, ce qui a été un gain de temps considérable.  
-Les algorithmes de clustering ont encore augmenté la vitesse d'annotation. 
+## 3. Clustering and annotation
 
-## 4. Entraînement
+To allow the model to classify boats, I labelled the dataset. I used the embeddings and clustering wich allowed me to quickly sort data.
 
-Afin de rapidement itérer sur nos différentes hypothèses d'amélioration, j'ai mis en place un pipeline d'entraînement comprenant des filtres sur les datasets, les paramètres de YOLOX, le suivi et l'enregistrement automatique des résultats.  
-Grâce à mon travail, il est possible de contrôler tous les paramètres à partir d'un seul fichier de config (json) et démarrer tout le pipeline avec un script.
+## 4. Training
+
+To rapidly iterate over experiments, I automated the training pipeline. The pipeline contained data filters, YOLOX paramters, logs and training results backup.  
+Everything was automated to the team could launch a full training based on a single json file and bash script.  
 
 ## 5. Quantization
 
-Afin de respecter les contraintes de la détection temps réél, j'ai quantizé tous les modèles, ce qui a mené à un gain de temps de 45% par détection.
+To allow YOLOX to work real time, I used OpenVINO to quantized every model and optimize it for Intel CPUs. The improvement was above 45% per frame. 
 
-## 6. Tests de performances
+## 6. Performances and tests
 
-Pour construire un base de connaissance solide, j'ai été rigoureux dans les tests des différentes hypothèses, en communiquant clairement mes résultats quantitatifs et en gardant une trace écrite.  Ainsi, mon travail a facilement été reprise par le développeur qui m'a succédé. 
+To create a solid knowledge based for my successor, I logged every training and create clear reports of my work. The next data scientist could easily work on the project right after me and didn't need mush time to get to know the processes.  
 
-📄 Ce travail a donné lieu à un [mémoire](/documents/memoire.pdf).
+📄 This internship is described in my [memoire](/documents/memoire.pdf).
 
-Ci-dessous le résultat d'un des modèles les plus précis. D'autres modèles plus légers ont été entraînés afin d'être utilisés sur des machines moins puissantes.
+Here are the results of a model I trained. Other smaller models were traing in order to be less ressources heavy.  
 
 ![Detection](/img/detected.png)
 
-Pour realiser l'annotation des datasets de facons efficace, j'ai utilisé les embeddings et la logiciel FiftyOne. Cela m'a permis de travailler avec une carte de similarite (*voir image ci-dessous*) :
+To efficiently annotate datasets, I used embeddings and FiftyOne. I then created similarity maps :
 
 ![Embeddings](/img/clustering_interface.png)
 
-Ici, ce sont les bateaux pompes qui sont sélectionnés :
+Here are ships detected as fireboats :
 
 ![Sélection](/img/bateaux_pompiers.png)

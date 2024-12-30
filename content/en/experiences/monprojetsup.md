@@ -1,21 +1,21 @@
 # Laboratoire Bordelais de Recherche en Informatique (LaBRI)
 
-> **Développeur Back End** • septembre 2023 - janvier 2024 (5 mois)  
+> **Développeur Back End** • September 2023 - January 2024 (5 months)  
 > Freelance • Remote
 
-Aide à la finalisation du prototype [MonProjetSup](<https://monprojetsup.fr>). Développement du serveur de et de l'UI.
+Fullstack developper on [MonProjetSup](<https://monprojetsup.fr>). Working on Java server and UI (prototyping with CSS, Bootstrap).  
 
-> **Développeur NLP** • mai 2022 - septembre 2023 (1 an)  
+> **Fullstack developper (with data science tasks)** • May 2022 - September 2023 (1 year)  
 > CDD • Bordeaux, Nouvelle-Aquitaine, France
 
-Création d'un moteur de recherche à l'aide de traitement du langage naturel (NLP). Extraction de mots-clés dans les descriptions des formations. Développement web et intégration de la solution de recherche.
+Working on a search engine with Natural Language Processing tasks. Keyword extraction from college degree descriptions. Web development and integration. 
 
-> **Développeur Machine Learning** • mai 2022 - septembre 2023 (3 mois)  
+> **Data Scientist** • May 2022 - September 2023 (3 months)  
 > Stage • Bordeaux, Nouvelle-Aquitaine, France
 
-Évaluation de la performance d'un modèle de machine learning (SVM) visant à prédire l'admissibilité des candidats (Parcoursup) à l'enseignement supérieur.
-L'objectif du stage est d'interpréter l'indicateur fourni par le SVM et d'évaluer sa précision, tout en accordant une attention particulière aux erreurs de type 1 (surévaluation de l'admissibilité).
+SVM performance assesment. The algorithm's goal was to predict candidate admissibility to college (through ParcourSup). 
+Goal is to avoid type 1 errors. 
 
-Pendant toutes ces étapes, j'ai pu apprendre des compétences très variées comme le sous titrage de vidéos tutorielles et l'utilisation de Figma pour le maquettage.
+During these experiences, I learned various skills like creating video subtitles and use Figma. 
 
 <img src="img/figma_mps.png">

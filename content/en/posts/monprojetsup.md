@@ -1,28 +1,29 @@
 # J'ai participé à créer MonProjetSup... 
+# I helped to create MonProjetSup...
 
-(à cause du genre et de la classe sociale)
+(because of gender and social inequality)
 
-Pendant mon Master en Informatique (2022/2024), j'ai eu la chance d'être embauché par le développeur de l'algorithme au cœur de ParcourSup.
+During my CS Master degree, I had the chance to be hired by the developper of ParcourSup.
 
-✅ Cette algorithme a, dans de nombreux cas, prouvé son utilité.
+✅ This algorithm is extremely helpful.
 
-❌ Mais selon [cette étude](https://rschmacker.github.io/files/JMP.pdf), ça ne suffit pas.
+❌ However, [this paper](https://rschmacker.github.io/files/JMP.pdf) desmonstrate it's not enough.
 
-Les élèves féminins ou issus des classes sociales populaires ont largement tendance à sous-estimer leurs capacités.
+Women and lower social class student tend to under estimate their competences.
 
-Résultat : ils ne postulent qu'à des formations qui ne reflètent pas leur vrai niveau.
+The result: they don't apply to some university, even if they could.
 
-La réponse à ce problème ? [MonProjetSup](https://monprojetsup.fr) (version Beta).
+The solution? [MonProjetSup](https://monprojetsup.fr) (Beta version).
 
-Le prototype que nous avons créé pose les bases d'un moteur de recherche personnalisé pour chaque candidat.
+This prototype is basically a personnalized search engine.
 
-De plus, il permet aux élèves d'estimer leurs chances de réussite grâce à des indicateurs comme les prérequis ou la moyennes des admis de l'année précédente.
+It allows student to esimate their chances of success thanks to metrics like last years admissions.
 
-Pourquoi ce feedback est important ? C'est la question que j'ai eu la chance de poser aux chercheurs.
+Why is this feedback needed? That's what I asked the paper authors.
 
-Voici leur réponse : l'information du rang permet de réduire significativement le rôle joué par la confiance en soi :
+Their response: information help reduce significatively the influence of self trust: 
 
-- de 72% pour les écart de genre ;
-- de 95% pour les écart sociaux.
+- by 72 for gender inequality ; 
+- by 95 for social inequality.
 
 ![monprojetsup_feedback](/img/monprojetsup_feedback.png)

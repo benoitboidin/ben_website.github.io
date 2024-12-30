@@ -1,25 +1,25 @@
-# J'ai passé 6 mois à regarder des bateaux...
+# I spent 6 months looking at boats...
 
-(et j'espère trouver un job grâce à ça)  
+(and I hope to find a job with that)  
+
+✅ MaxSea International sells a marine surveillance software with camera management.
+
+❌ What they don't sell is someone looking at the camera screens 24/7.
   
-✅ MaxSea International propose un logiciel de surveillance maritime, qui inclut la gestion de caméras.  
-  
-❌ Ce qu'ils ne proposent pas, c'est quelqu'un qui reste éveillé 24/7 derrière l'écran pour surveiller l'océan.  
-  
-C'est ici que mes compétences en machine learning interviennent.  
-  
-En 3 étapes, j'ai pu résoudre leur problème :  
-  
-1. récolter des centaines de milliers d'images de navires ;  
-2. les classifier grâce au clustering ;  
-3. entraîner un réseau de neurones ;  
-  
-Le résultat ? La précision de leur modèle a augmenté de 45%.  
-  
-Tout ceci en restant en dessous de 92 millisecondes par image (grâce à l'optimisation par quantization).  
-  
-Je suis maintenant à la recherche d'un nouveau défi et aimerais apporter mes compétences à une organisation qui valorise l'innovation et le travail en équipe.  
-  
-Merci à toute l'équipe de MaxSea pour leur collaboration et les bons moments passés ensemble !
+So here I came with some machine learning knowledge.
+
+It took me 3 steps to solve their issue:
+
+1. gather thousand of boat pictures ;
+2. classify it with clustering ;
+3. train a detection neural network.  
+
+The result? Model precision augmented by 45%.
+
+And it's real time (thanks to quantization).
+
+I am know looking for a new opportunity to challenge me and bring my knowledge to an organisation that need innovation and teamm work.
+
+Thanks to the MaxSea team for this collaboration!  
 
 ![detected](/img/detected.png)
