@@ -6,3 +6,24 @@ theme = 'hextra'
   defaultMarkdownHandler = 'goldmark'
   [markup.goldmark.renderer]
     unsafe = true # Allow HTML in md files
+    
+defaultContentLanguage = 'fr'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.fr]
+    contentDir = 'content/fr'
+    disabled = false
+    languageCode = 'fr-FR'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    title = 'Documentation du Projet'
+    weight = 2
+    [languages.en.params]
+      subtitle = 'Références, Tutoriel et Explications.'
+
+  [languages.en]
+    contentDir = 'content/en'
+    disabled = false
+    languageCode = 'en-US'
+    languageName = 'English'

@@ -1,29 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://benoitboidin.com/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/education/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/experiences/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/experiences/ml_boat/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/experiences/monprojetsup/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/experiences/pertinint/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/posts/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/posts/identification/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/posts/look_at_boats/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/posts/monprojetsup/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/categories/</loc>
-  </url><url>
-    <loc>http://benoitboidin.com/tags/</loc>
-  </url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://benoitboidin.com/en/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://benoitboidin.com/fr/sitemap.xml</loc>
+    
+  </sitemap>
+  
+</sitemapindex>
