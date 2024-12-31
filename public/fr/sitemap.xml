@@ -5,6 +5,11 @@
     <loc>http://benoitboidin.com/fr/</loc>
     <xhtml:link
                 rel="alternate"
+                hreflang="de-DE"
+                href="http://benoitboidin.com/de/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-US"
                 href="http://benoitboidin.com/"
                 />
@@ -130,6 +135,11 @@
                 />
     <xhtml:link
                 rel="alternate"
+                hreflang="de-DE"
+                href="http://benoitboidin.com/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="fr-FR"
                 href="http://benoitboidin.com/fr/categories/"
                 />
@@ -139,6 +149,11 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://benoitboidin.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="http://benoitboidin.com/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"

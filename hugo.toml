@@ -27,3 +27,9 @@ defaultContentLanguageInSubdir = true
     disabled = false
     languageCode = 'en-US'
     languageName = 'English'
+
+  [languages.de]
+    contentDir = 'content/de'
+    disabled = false
+    languageCode = 'de-DE'
+    languageName = 'Deutsch (automatisch übersetzt)'

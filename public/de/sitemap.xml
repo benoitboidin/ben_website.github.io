@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/de/categories/</loc>
+    <loc>http://benoitboidin.com/de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/categories/"
+                href="http://benoitboidin.com/fr/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/categories/"
+                hreflang="en-US"
+                href="http://benoitboidin.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/categories/"
+                href="http://benoitboidin.com/de/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/</loc>
+    <loc>http://benoitboidin.com/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/"
+                href="http://benoitboidin.com/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/"
+                hreflang="en-US"
+                href="http://benoitboidin.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/"
+                href="http://benoitboidin.com/de/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/</loc>
+    <loc>http://benoitboidin.com/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://localhost:1313/fr/tags/"
+                href="http://benoitboidin.com/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en"
-                href="http://localhost:1313/tags/"
+                hreflang="en-US"
+                href="http://benoitboidin.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://localhost:1313/de/tags/"
+                href="http://benoitboidin.com/de/tags/"
                 />
   </url>
 </urlset>

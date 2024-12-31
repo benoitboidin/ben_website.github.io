@@ -34,13 +34,11 @@
 
 ## Experiences
 
-- [**Boat detection**](/en/experiences/ml_boat) _(6 months)_ : final internship (Master degree) consisting in training neural network for real time ship detection. 
-- [**MonProjetSup**](/en/experiences/monprojetsup) _(2 years)_ : during my master degree, I had the chance to be the first student ever employed by the French National Scientific Research Center (CNRS) at Bordeaux, where I created a search engin using natural language processing and data extraction.  
-- [**Analyse de PertInInt**](/en/experiences/pertinint) _(2 month)_ : this internship was about analysing a DNA cancer detection framework and searching for ways of improvement.  
+- [**Boat detection**](/experiences/ml_boat) _(6 months)_ : final internship (Master degree) consisting in training neural network for real time ship detection. 
+- [**MonProjetSup**](/experiences/monprojetsup) _(2 years)_ : during my master degree, I had the chance to be the first student ever employed by the French National Scientific Research Center (CNRS) at Bordeaux, where I created a search engin using natural language processing and data extraction.  
+- [**PertInInt Analysis**](/experiences/pertinint) _(2 month)_ : this internship was about analysing a DNA cancer detection framework and searching for ways of improvement.  
 
-📄 _Les recommandations de mes anciens superviseurs et collègues : [lettre par Hugo Gimbert](/documents/recommandation_hugo.pdf) (enseignant chercheur au CNRS) et [lettre par Fabien Rhodes](/documents/recommandation_fabien.pdf) (directeur des opérations chez MaxSea)._
-
-📄 _Recommandations from my former employers and colleagues : [letter by Hugo Gimbert](/documents/recommandation_hugo.pdf) (professor & researcher at CNRS) et [letter by Fabien Rhodes](/documents/recommandation_fabien.pdf) (director of operations at MaxSea)._
+📄 _Letters of recommendation from my former employers and colleagues : [letter by Hugo Gimbert](/documents/recommandation_hugo.pdf) (professor & researcher at CNRS) et [letter by Fabien Rhodes](/documents/recommandation_fabien.pdf) (director of operations at MaxSea)._
 
 ## Scholarship
 
@@ -56,7 +54,7 @@ Let's connect on  [LinkedIn](https://fr.linkedin.com/in/benoît-boidin-276124a3)
 
 Some [articles](/posts/posts) I posted on LinkedIn.
 
-Embedding extracted from a dataset I worked on (after clustering and dimension reduction) : 
+Embedding extracted from a dataset I worked on (after clustering and dimension reduction) :
 
 <img src="img/resnet101_umap_cropped.jpg"/>
 
