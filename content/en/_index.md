@@ -29,22 +29,22 @@
     </div>
 </div>
 
-> I am Benoît, a french developper passionate about **AI** and **Machine Learning**! This website contains my eduction and professional experiences.  
+> I am Benoît, a French developper passionate about **AI** and **Machine Learning**! This website shocases my background and professional experiences.  
 > Hire me as a freelance on [Malt](<https://www.malt.fr/profile/benoitboidin>).
 
 ## Experiences
 
-- [**Boat detection**](/experiences/ml_boat) _(6 months)_ : final internship (Master degree) consisting in training neural network for real time ship detection. 
-- [**MonProjetSup**](/experiences/monprojetsup) _(2 years)_ : during my master degree, I had the chance to be the first student ever employed by the French National Scientific Research Center (CNRS) at Bordeaux, where I created a search engin using natural language processing and data extraction.  
-- [**PertInInt Analysis**](/experiences/pertinint) _(2 month)_ : this internship was about analysing a DNA cancer detection framework and searching for ways of improvement.  
+- [**Boat Detection**](/experiences/ml_boat) _(6 months)_ : my final-year internship involved creating an neural network model for real-time ship recognition.
+- [**MonProjetSup**](/experiences/monprojetsup) _(2 years)_ : during my Master's degree, I had the chance to be the first student ever employed by the French National Scientific Research Center (CNRS) at Bordeaux, where I created a search engin using natural language processing and data extraction.  
+- [**PertInInt Analysis**](/experiences/pertinint) _(2 month)_ : this voluntary internship focused on analyzing a framework for breast cancer detection through DNA and seeking improvements.
 
-📄 _Letters of recommendation from my former employers and colleagues : [letter by Hugo Gimbert](/documents/recommandation_hugo.pdf) (professor & researcher at CNRS) et [letter by Fabien Rhodes](/documents/recommandation_fabien.pdf) (director of operations at MaxSea)._
+📄 _Recommendations from my former supervisors and colleagues: [letter by Hugo Gimbert](/documents/recommandation_hugo.pdf) (research professor at CNRS) and [letter by Fabien Rhodes](/documents/recommandation_fabien.pdf) (operations director at MaxSea)._
 
-## Scholarship
+## Academic Background
 
-- [**Master** of Computer Science](/education/#master-en-informatique) : during this two years, I learned computer science architectures, signal processing and machine learning. I also had image and sound analysis courses.  
-- **English learning journey at University California San Diego** in order to be fluent.  
-- [**Bachelor** of Applied Statistics](/education/#licence-de-statistiques-appliquées) : courses included advanced statistics and cognitive sciences, which taught me how to conduct scientific experiments.
+- [**Master** in Computer Science](/education/#master-en-informatique) : my Master’s program provided the foundations of software engineering, with a strong focus on machine learning techniques. I also gained exposure to data processing, particularly for images and sound.  
+- **Language study at University California San Diego** to improve my English proficiency.  
+- [**Bachelor’s in Applied Statistics**](/education/#licence-de-statistiques-appliquées): During my Bachelor’s, I learned advanced statistics and cognitive sciences, which taught me how to conduct scientific experimentation.
 
 📄 _To view my resume, click on [french version](/documents/cv_fr.pdf) or [english version](/documents/cv_en.pdf)._
 

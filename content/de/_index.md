@@ -56,4 +56,4 @@ Einige [Artikel](/posts/posts), die ich auf LinkedIn gepostet habe.
 
 Embedding, das aus einem Datensatz extrahiert wurde, an dem ich gearbeitet habe (nach Clustering und Dimensionsreduktion):
 
-<img src="img/resnet101_umap_cropped.jpg"/>
+<img src="../fr/img/resnet101_umap_cropped.jpg"/>
