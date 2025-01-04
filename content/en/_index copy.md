@@ -34,9 +34,9 @@
 
 ## Experiences
 
-- [**Ship Recognition**](/experiences/ml_boat) _(6 months)_: My final-year internship involved creating an artificial intelligence model for real-time ship recognition.
-- [**MonProjetSup**](/experiences/monprojetsup) _(2 years)_: During my Master’s, I was the first student hired to collaborate with CNRS - LaBRI (Bordeaux Computer Science Research Laboratory), where I worked on creating a search engine using NLP and data extraction techniques.
-- [**PertInInt Analysis**](/experiences/pertinint) _(2 months)_: This voluntary internship focused on analyzing a framework for breast cancer detection through DNA and seeking improvements.
+- [**Detection Neural Network**](/experiences/ml_boat) _(6 months)_: My final-year internship involved creating an artificial intelligence model for real-time ship recognition.
+- [**New Type of Search Engine**](/experiences/monprojetsup) _(2 years)_: During my Master’s, I was the first student hired to collaborate with CNRS - LaBRI (Bordeaux Computer Science Research Laboratory), where I worked on creating a search engine using NLP and data extraction techniques.
+- [**Breast Cancer Detection**](/experiences/pertinint) _(2 months)_: This voluntary internship focused on analyzing a framework for breast cancer detection through DNA and seeking improvements.
 
 📄 _Recommendations from my former supervisors and colleagues: [letter by Hugo Gimbert](/documents/recommandation_hugo.pdf) (research professor at CNRS) and [letter by Fabien Rhodes](/documents/recommandation_fabien.pdf) (operations director at MaxSea)._
 

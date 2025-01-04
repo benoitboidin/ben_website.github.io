@@ -4,7 +4,14 @@
             justify-content:space-between;
             align-items:center;'>
     <a href="">
-        <img src="img/profile_costume.jpg" style="height:250px;"/>
+        <img src="img/profile/profile_costume.jpg" style="height:250px;"/>
+        <!-- <div class="Slideshow">
+            <div class="Slideshow-Content">
+                <img src="img/profile/IMG_1710.jpeg"/>
+                <img src="img/profile/IMG_1502.jpeg"/>
+                <img src="img/profile/IMG_8544.jpeg"/>
+            </div>
+        </div> -->
     </a>
     <div style="margin-left:15px;
                 display: flex;
@@ -32,11 +39,60 @@
 > I am Benoît, a French developper passionate about **AI** and **Machine Learning**! This website shocases my background and professional experiences.  
 > Hire me as a freelance on [Malt](<https://www.malt.fr/profile/benoitboidin>).
 
+<!-- <style>
+    .Slideshow {
+    height: 300px;
+    width: 300px;
+    overflow: hidden;
+    }
+
+    .Slideshow-Content {
+    position: relative;
+    height: 100%;
+    }
+
+    .Slideshow-Content img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 8;
+    object-fit: cover;
+    animation-name: fadeInOut;
+    animation-timing-function: ease-in-out;
+    animation-iteration-count: infinite;
+    animation-duration: 15s;
+    animation-direction: alternate;
+    }
+
+    .Slideshow-Content img:nth-of-type(1) {
+    animation-delay: 10s;
+    }
+
+    .Slideshow-Content img:nth-of-type(2) {
+    animation-delay: 5s;
+    }
+
+    .Slideshow-Content img:nth-of-type(3) {
+    animation-delay: 0s;
+    }
+
+    @keyframes fadeInOut {
+    0% { opacity:0; }
+    30% { opacity:0; }
+    35% { opacity:1; }
+    65% { opacity:1; }
+    70% { opacity:0; }
+    100% { opacity:0; }
+    }
+</style> -->
+
 ## Experiences
 
-- [**Boat Detection**](/experiences/ml_boat) _(6 months)_ : my final-year internship involved creating an neural network model for real-time ship recognition.
-- [**MonProjetSup**](/experiences/monprojetsup) _(2 years)_ : during my Master's degree, I had the chance to be the first student ever employed by the French National Scientific Research Center (CNRS) at Bordeaux, where I created a search engin using natural language processing and data extraction.  
-- [**PertInInt Analysis**](/experiences/pertinint) _(2 month)_ : this voluntary internship focused on analyzing a framework for breast cancer detection through DNA and seeking improvements.
+- [**Detection Neural Network**](/experiences/ml_boat) _(6 months)_ : my final-year internship involved creating an neural network model for real-time ship recognition.
+- [**New Type of Search Engine**](/experiences/monprojetsup) _(2 years)_ : during my Master's degree, I had the chance to be the first student ever employed by the French National Scientific Research Center (CNRS) at Bordeaux, where I created a search engin using natural language processing and data extraction.  
+- [**Breast Cancer Detection**](/experiences/pertinint) _(2 month)_ : this voluntary internship focused on analyzing a framework for breast cancer detection through DNA and seeking improvements.
 
 📄 _Recommendations from my former supervisors and colleagues: [letter by Hugo Gimbert](/documents/recommandation_hugo.pdf) (research professor at CNRS) and [letter by Fabien Rhodes](/documents/recommandation_fabien.pdf) (operations director at MaxSea)._
 

@@ -18,4 +18,4 @@ Goal is to avoid type 1 errors.
 
 During these experiences, I learned various skills like creating video subtitles and use Figma. 
 
-<img src="img/figma_mps.png">
+<img src="/img/figma_mps.png">
