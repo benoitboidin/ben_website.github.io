@@ -38,7 +38,8 @@
 - [**MonProjetSup**](/experiences/monprojetsup) _(2 ans)_ : pendant mon master, j'ai eu la chance d'être le premier étudiant à être embauché pour collaborer avec le CNRS - LaBRI (Laboratoire Bordelais de Recherche en Informatique), où j'ai travaillé sur la création d'un moteur de recherche utilisant les techniques de NLP et de data extraction.
 - [**Analyse de PertInInt**](/experiences/pertinint) _(2 mois)_ : ce stage volontaire consistait en l'analyse d'un framework de détection du cancer du sein par ADN et à la recherche d'amélioration.  
 
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-file"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/></svg> _Les recommandations de mes anciens superviseurs et collègues : [lettre par Hugo Gimbert](/documents/recommandation_hugo.pdf) (enseignant chercheur au CNRS) et [lettre par Fabien Rhodes](/documents/recommandation_fabien.pdf) (directeur des opérations chez MaxSea)._
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-file"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/></svg>
+_Les recommandations de mes anciens superviseurs et collègues : [lettre par Hugo Gimbert](/documents/recommandation_hugo.pdf) (enseignant chercheur au CNRS) et [lettre par Fabien Rhodes](/documents/recommandation_fabien.pdf) (directeur des opérations chez MaxSea)._
 
 ## Académique
 
@@ -46,7 +47,8 @@
 - **Séjour linguistique à University California San Diego** pour améliorer ma maîtrise de l'anglais.  
 - [**Licence** de Statistiques](/education/#licence-de-statistiques-appliquées) : lors de ma Licence, j'ai appris les statistiques avancées et les sciences cognitives, qui m'ont notamment permis de maîtriser la rigueur de l'expérimentation scientifique.
 
-![alt text](./img/file.svg) _Pour télécharger mon CV, cliquez sur [la version française](/documents/cv_fr.pdf) ou [la version anglaise](/documents/cv_en.pdf)._
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-file"><path d="M15 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7Z"/><path d="M14 2v4a2 2 0 0 0 2 2h4"/></svg>
+_Pour télécharger mon CV, cliquez sur [la version française](/documents/cv_fr.pdf) ou [la version anglaise](/documents/cv_en.pdf)._
 
 ## Divers
 
@@ -58,7 +60,7 @@ Une représentation d'un dataset sous forme de carte de similarité (calcul d'em
 
 <img src="img/resnet101_umap_cropped.jpg"/>
 
-[Pourquoi m'embaucher ?](img/IMG_2004.JPG)
+[Pourquoi m'embaucher ?](/img/IMG_2004.JPG)
 
 <!-- <br>
 <div class="github-card" data-github="benoitboidin" data-width="300" data-height="" data-theme="default"></div>
