@@ -46,3 +46,5 @@ Pour realiser l'annotation des datasets de facons efficace, j'ai utilisé les em
 Ici, ce sont les bateaux pompes qui sont sélectionnés :
 
 ![Sélection](/img/bateaux_pompiers.png)
+
+![Vidéo](/img/D0292DDC-7FB5-4171-A0E2-23B9527B48CD.MP4)

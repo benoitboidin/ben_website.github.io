@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Documentation du Projet – </title>
+    <title>Portfolio – </title>
     <link>http://benoitboidin.com/fr/experiences/</link>
-    <description>Recent content on Documentation du Projet</description>
+    <description>Recent content on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     
@@ -51,6 +51,7 @@ Grâce à mon travail, il est possible de contrôler tous les paramètres à par
 &lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/clustering_interface.png&#34; alt=&#34;Embeddings&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Ici, ce sont les bateaux pompes qui sont sélectionnés :&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/bateaux_pompiers.png&#34; alt=&#34;Sélection&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/D0292DDC-7FB5-4171-A0E2-23B9527B48CD.MP4&#34; alt=&#34;Vidéo&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>

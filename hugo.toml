@@ -17,7 +17,7 @@ defaultContentLanguageInSubdir = true
     languageCode = 'fr-FR'
     languageDirection = 'ltr'
     languageName = 'Français'
-    title = 'Documentation du Projet'
+    title = 'Portfolio'
     weight = 2
     [languages.en.params]
       subtitle = 'Références, Tutoriel et Explications.'
