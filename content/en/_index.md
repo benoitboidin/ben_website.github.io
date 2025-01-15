@@ -99,8 +99,8 @@
 ## Academic Background
 
 - [**Master** in Computer Science](/education/#master-en-informatique) : my Master’s program provided the foundations of software engineering, with a strong focus on machine learning techniques. I also gained exposure to data processing, particularly for images and sound.  
-- **Language study at University California San Diego** to improve my English proficiency.  
-- [**Bachelor’s in Applied Statistics**](/education/#licence-de-statistiques-appliquées): During my Bachelor’s, I learned advanced statistics and cognitive sciences, which taught me how to conduct scientific experimentation.
+- **Language study** at University California San Diego to improve my English proficiency.  
+- [**Bachelor’s** in Applied Statistics](/education/#licence-de-statistiques-appliquées): During my Bachelor’s, I learned advanced statistics and cognitive sciences, which taught me how to conduct scientific experimentation.
 
 📄 _To view my resume, click on [french version](/documents/cv_fr.pdf) or [english version](/documents/cv_en.pdf)._
 

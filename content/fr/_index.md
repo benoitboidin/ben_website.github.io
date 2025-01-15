@@ -29,7 +29,7 @@
     </div>
 </div>
 
-> Je suis Benoît, un jeune français passionné par l'**IA** et l'entraînement de **modèles de machine learning** ! Ce site présente mon parcours et mes expériences professionnelles.  
+> Je suis Benoît, un jeune français p$$assionné par l'**IA** et l'entraînement de **modèles de machine learning** ! Ce site présente mon parcours et mes expériences professionnelles.  
 > Travaillons ensemble sur [Malt](<https://www.malt.fr/profile/benoitboidin>).
 
 ## Expériences
@@ -60,7 +60,7 @@ Une représentation d'un dataset sous forme de carte de similarité (calcul d'em
 
 <img src="img/resnet101_umap_cropped.jpg"/>
 
-[Pourquoi m'embaucher ?](/img/IMG_2004.JPG)
+<!-- [Pourquoi m'embaucher ?](/img/IMG_2004.JPG) -->
 
 <!-- <br>
 <div class="github-card" data-github="benoitboidin" data-width="300" data-height="" data-theme="default"></div>
