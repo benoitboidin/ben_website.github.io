@@ -29,7 +29,7 @@
     </div>
 </div>
 
-> Je suis Benoît, un jeune français p$$assionné par l'**IA** et l'entraînement de **modèles de machine learning** ! Ce site présente mon parcours et mes expériences professionnelles.  
+> Je suis Benoît, un jeune français passionné par l'**IA** et l'entraînement de **modèles de machine learning** ! Ce site présente mon parcours et mes expériences professionnelles.  
 > Travaillons ensemble sur [Malt](<https://www.malt.fr/profile/benoitboidin>).
 
 ## Expériences

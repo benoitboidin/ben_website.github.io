@@ -2,165 +2,165 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://benoitboidin.com/_index-copy/</loc>
+    <loc>http://localhost:1313/_index-copy/</loc>
   </url><url>
-    <loc>http://benoitboidin.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/"
+                href="http://localhost:1313/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://benoitboidin.com/de/"
+                href="http://localhost:1313/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>http://benoitboidin.com/education/</loc>
+    <loc>http://localhost:1313/education/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/education/"
+                href="http://localhost:1313/fr/education/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/education/"
+                href="http://localhost:1313/education/"
                 />
   </url><url>
-    <loc>http://benoitboidin.com/experiences/</loc>
+    <loc>http://localhost:1313/experiences/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/experiences/"
+                href="http://localhost:1313/fr/experiences/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/experiences/"
+                href="http://localhost:1313/experiences/"
                 />
   </url><url>
-    <loc>http://benoitboidin.com/experiences/ml_boat/</loc>
+    <loc>http://localhost:1313/experiences/ml_boat/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/experiences/ml_boat/"
+                href="http://localhost:1313/fr/experiences/ml_boat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/experiences/ml_boat/"
+                href="http://localhost:1313/experiences/ml_boat/"
                 />
   </url><url>
-    <loc>http://benoitboidin.com/experiences/monprojetsup/</loc>
+    <loc>http://localhost:1313/experiences/monprojetsup/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/experiences/monprojetsup/"
+                href="http://localhost:1313/fr/experiences/monprojetsup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/experiences/monprojetsup/"
+                href="http://localhost:1313/experiences/monprojetsup/"
                 />
   </url><url>
-    <loc>http://benoitboidin.com/experiences/pertinint/</loc>
+    <loc>http://localhost:1313/experiences/pertinint/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/experiences/pertinint/"
+                href="http://localhost:1313/fr/experiences/pertinint/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/experiences/pertinint/"
+                href="http://localhost:1313/experiences/pertinint/"
                 />
   </url><url>
-    <loc>http://benoitboidin.com/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/posts/"
+                href="http://localhost:1313/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/posts/"
+                href="http://localhost:1313/posts/"
                 />
   </url><url>
-    <loc>http://benoitboidin.com/posts/identification/</loc>
+    <loc>http://localhost:1313/posts/identification/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/posts/identification/"
+                href="http://localhost:1313/fr/posts/identification/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/posts/identification/"
+                href="http://localhost:1313/posts/identification/"
                 />
   </url><url>
-    <loc>http://benoitboidin.com/posts/look_at_boats/</loc>
+    <loc>http://localhost:1313/posts/look_at_boats/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/posts/look_at_boats/"
+                href="http://localhost:1313/fr/posts/look_at_boats/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/posts/look_at_boats/"
+                href="http://localhost:1313/posts/look_at_boats/"
                 />
   </url><url>
-    <loc>http://benoitboidin.com/posts/monprojetsup/</loc>
+    <loc>http://localhost:1313/posts/monprojetsup/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/posts/monprojetsup/"
+                href="http://localhost:1313/fr/posts/monprojetsup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/posts/monprojetsup/"
+                href="http://localhost:1313/posts/monprojetsup/"
                 />
   </url><url>
-    <loc>http://benoitboidin.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/categories/"
+                href="http://localhost:1313/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://benoitboidin.com/de/categories/"
+                href="http://localhost:1313/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>http://benoitboidin.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-FR"
-                href="http://benoitboidin.com/fr/tags/"
+                href="http://localhost:1313/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="http://benoitboidin.com/de/tags/"
+                href="http://localhost:1313/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://benoitboidin.com/tags/"
+                href="http://localhost:1313/tags/"
                 />
   </url>
 </urlset>

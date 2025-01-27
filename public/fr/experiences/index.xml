@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio – </title>
-    <link>http://benoitboidin.com/fr/experiences/</link>
+    <link>http://localhost:1313/fr/experiences/</link>
     <description>Recent content on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     
-	  <atom:link href="http://benoitboidin.com/fr/experiences/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/fr/experiences/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>http://benoitboidin.com/fr/experiences/ml_boat/</link>
+      <link>http://localhost:1313/fr/experiences/ml_boat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://benoitboidin.com/fr/experiences/ml_boat/</guid>
+      <guid>http://localhost:1313/fr/experiences/ml_boat/</guid>
       <description>
         
         
@@ -44,24 +44,24 @@ Grâce à mon travail, il est possible de contrôler tous les paramètres à par
     &lt;a href=&#34;#5-quantization&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Afin de respecter les contraintes de la détection temps réél, j&amp;rsquo;ai quantizé tous les modèles, ce qui a mené à un gain de temps de 45% par détection.&lt;/p&gt;
 &lt;h2&gt;6. Tests de performances&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-tests-de-performances&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#6-tests-de-performances&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Pour construire un base de connaissance solide, j&amp;rsquo;ai été rigoureux dans les tests des différentes hypothèses, en communiquant clairement mes résultats quantitatifs et en gardant une trace écrite.  Ainsi, mon travail a facilement été reprise par le développeur qui m&amp;rsquo;a succédé.&lt;/p&gt;
-&lt;p&gt;📄 Ce travail a donné lieu à un &lt;a href=&#34;http://benoitboidin.com/documents/memoire.pdf&#34; &gt;mémoire&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;📄 Ce travail a donné lieu à un &lt;a href=&#34;http://localhost:1313/documents/memoire.pdf&#34; &gt;mémoire&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Ci-dessous le résultat d&amp;rsquo;un des modèles les plus précis. D&amp;rsquo;autres modèles plus légers ont été entraînés afin d&amp;rsquo;être utilisés sur des machines moins puissantes.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/detected.png&#34; alt=&#34;Detection&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/detected.png&#34; alt=&#34;Detection&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Pour realiser l&amp;rsquo;annotation des datasets de facons efficace, j&amp;rsquo;ai utilisé les embeddings et la logiciel FiftyOne. Cela m&amp;rsquo;a permis de travailler avec une carte de similarite (&lt;em&gt;voir image ci-dessous&lt;/em&gt;) :&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/clustering_interface.png&#34; alt=&#34;Embeddings&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/clustering_interface.png&#34; alt=&#34;Embeddings&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Ici, ce sont les bateaux pompes qui sont sélectionnés :&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/bateaux_pompiers.png&#34; alt=&#34;Sélection&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/D0292DDC-7FB5-4171-A0E2-23B9527B48CD.MP4&#34; alt=&#34;Vidéo&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/bateaux_pompiers.png&#34; alt=&#34;Sélection&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/D0292DDC-7FB5-4171-A0E2-23B9527B48CD.MP4&#34; alt=&#34;Vidéo&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://benoitboidin.com/fr/experiences/monprojetsup/</link>
+      <link>http://localhost:1313/fr/experiences/monprojetsup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://benoitboidin.com/fr/experiences/monprojetsup/</guid>
+      <guid>http://localhost:1313/fr/experiences/monprojetsup/</guid>
       <description>
         
         
@@ -89,10 +89,10 @@ L&amp;rsquo;objectif du stage est d&amp;rsquo;interpréter l&amp;rsquo;indicateu
     
     <item>
       <title></title>
-      <link>http://benoitboidin.com/fr/experiences/pertinint/</link>
+      <link>http://localhost:1313/fr/experiences/pertinint/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://benoitboidin.com/fr/experiences/pertinint/</guid>
+      <guid>http://localhost:1313/fr/experiences/pertinint/</guid>
       <description>
         
         
@@ -104,8 +104,8 @@ Stage • Lyon, Rhône-Alpes, France&lt;/p&gt;
 &lt;p&gt;Voici ci-après le résultat de mon analyse sous forme de mindmap :&lt;/p&gt;
 &lt;br&gt;
 &lt;object data=&#34;/documents/pertinint_xmind.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;700px&#34;&gt;
-    &lt;embed src=&#34;http://benoitboidin.com/documents/pertinint_xmind.pdf&#34;&gt;
-        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://benoitboidin.com/documents/pertinint_xmind.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
+    &lt;embed src=&#34;http://localhost:1313/documents/pertinint_xmind.pdf&#34;&gt;
+        &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&#34;http://localhost:1313/documents/pertinint_xmind.pdf&#34;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
     &lt;/embed&gt;
 &lt;/object&gt;
       </description>
