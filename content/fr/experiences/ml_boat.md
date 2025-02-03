@@ -12,18 +12,18 @@ Après exploration, j'ai remarqué que certaines sources étaient composées d'i
 
 ## 2. Visualisation et statistiques
 
-Les embeddings m'ont aussi permis de plonger plus en profondeur au cœur des données : j'ai détecter des clusters représentant des objets qui n'étaient pas utiles à l'entraînement, comme des sous-marins.  
-Du côté des statistiques, j'ai évalué la taille moyenne des détections, les dimensions des images, mais surtout ne nombre de bateaux par classe (pour éviter tout déséquilibre).
+Les embeddings m'ont aussi permis de plonger plus en profondeur au cœur des données : j'ai détecté des clusters représentant des objets qui n'étaient pas utiles à l'entraînement, comme des sous-marins.  
+Du côté des statistiques, j'ai évalué la taille moyenne des détections, les dimensions des images, et le nombre de bateaux par classe (pour éviter tout déséquilibre).
 
 ## 3. Clustering et annotation
 
-Pour permettre au modèle de classifier les navires, j'ai entrepris d'annoter les datasets. J'ai utilisé pour cela les embeddings calculés précédemment, ce qui a été un gain de temps considérable.  
-Les algorithmes de clustering ont encore augmenté la vitesse d'annotation. 
+Pour permettre au modèle de classifier les navires, j'ai entrepris d'annoter les datasets. Les embeddings calculés précédemment on permit un gain de temps considérable.  
+Les algorithmes de clustering ont aussi contribué à la vitesse d'annotation.  
 
 ## 4. Entraînement
 
 Afin de rapidement itérer sur nos différentes hypothèses d'amélioration, j'ai mis en place un pipeline d'entraînement comprenant des filtres sur les datasets, les paramètres de YOLOX, le suivi et l'enregistrement automatique des résultats.  
-Grâce à mon travail, il est possible de contrôler tous les paramètres à partir d'un seul fichier de config (json) et démarrer tout le pipeline avec un script.
+Grâce à mon travail, il est possible de contrôler tous les paramètres à partir d'un seul fichier de configuration (json) et démarrer tout le pipeline avec un script.
 
 ## 5. Quantization
 
@@ -31,7 +31,7 @@ Afin de respecter les contraintes de la détection temps réél, j'ai quantizé 
 
 ## 6. Tests de performances
 
-Pour construire un base de connaissance solide, j'ai été rigoureux dans les tests des différentes hypothèses, en communiquant clairement mes résultats quantitatifs et en gardant une trace écrite.  Ainsi, mon travail a facilement été reprise par le développeur qui m'a succédé. 
+Pour construire une base de connaissance solide, j'ai été rigoureux dans les tests des différentes hypothèses, en communiquant clairement mes résultats quantitatifs et en gardant une trace écrite à cahque étape.  Ainsi, mon travail a facilement été reprise par le développeur qui m'a succédé.  
 
 📄 Ce travail a donné lieu à un [mémoire](/documents/memoire.pdf).
 
@@ -39,7 +39,7 @@ Ci-dessous le résultat d'un des modèles les plus précis. D'autres modèles pl
 
 ![Detection](/img/detected.png)
 
-Pour realiser l'annotation des datasets de facons efficace, j'ai utilisé les embeddings et la logiciel FiftyOne. Cela m'a permis de travailler avec une carte de similarite (*voir image ci-dessous*) :
+Pour réaliser l'annotation des datasets de facons efficace, j'ai utilisé les embeddings et le logiciel FiftyOne. Cela m'a permis de travailler avec une carte de similarite (*voir image ci-dessous*) :
 
 ![Embeddings](/img/clustering_interface.png)
 

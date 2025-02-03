@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio de Benoît Boidin – </title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://benoitboidin.com/posts/</link>
     <description>Recent content on Portfolio de Benoît Boidin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	  <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://benoitboidin.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/identification/</link>
+      <link>http://benoitboidin.com/posts/identification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/identification/</guid>
+      <guid>http://benoitboidin.com/posts/identification/</guid>
       <description>
         
         
@@ -32,17 +32,17 @@
 &lt;p&gt;What if two embeddings contains almost the same numbers? Then the images are probably almost identical.&lt;/p&gt;
 &lt;p&gt;Thanks to this (and some clustering and dimension reduction), we can create a map.&lt;/p&gt;
 &lt;p&gt;Then I just had to select points and give a category to the images! (Here are some fireboats)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/bateaux_pompiers.png&#34; alt=&#34;bateaux_pompiers&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/bateaux_pompiers.png&#34; alt=&#34;bateaux_pompiers&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/look_at_boats/</link>
+      <link>http://benoitboidin.com/posts/look_at_boats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/look_at_boats/</guid>
+      <guid>http://benoitboidin.com/posts/look_at_boats/</guid>
       <description>
         
         
@@ -60,17 +60,17 @@
 &lt;p&gt;And it&amp;rsquo;s real time (thanks to quantization).&lt;/p&gt;
 &lt;p&gt;I am know looking for a new opportunity to challenge me and bring my knowledge to an organisation that need innovation and teamm work.&lt;/p&gt;
 &lt;p&gt;Thanks to the MaxSea team for this collaboration!&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/detected.png&#34; alt=&#34;detected&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/detected.png&#34; alt=&#34;detected&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/monprojetsup/</link>
+      <link>http://benoitboidin.com/posts/monprojetsup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/monprojetsup/</guid>
+      <guid>http://benoitboidin.com/posts/monprojetsup/</guid>
       <description>
         
         
@@ -89,7 +89,7 @@
 &lt;li&gt;by 72 for gender inequality ;&lt;/li&gt;
 &lt;li&gt;by 95 for social inequality.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/monprojetsup_feedback.png&#34; alt=&#34;monprojetsup_feedback&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/monprojetsup_feedback.png&#34; alt=&#34;monprojetsup_feedback&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>

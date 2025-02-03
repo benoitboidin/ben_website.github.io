@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio – </title>
-    <link>http://localhost:1313/fr/posts/</link>
+    <link>http://benoitboidin.com/fr/posts/</link>
     <description>Recent content on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     
-	  <atom:link href="http://localhost:1313/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://benoitboidin.com/fr/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/fr/posts/identification/</link>
+      <link>http://benoitboidin.com/fr/posts/identification/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/identification/</guid>
+      <guid>http://benoitboidin.com/fr/posts/identification/</guid>
       <description>
         
         
@@ -32,17 +32,17 @@
 &lt;p&gt;Si deux embeddings ont presque les mêmes chiffres ? L&amp;rsquo;ordinateur en déduit que les images se ressemblent.&lt;/p&gt;
 &lt;p&gt;Grâce à ça (et en ajoutant un peu d&amp;rsquo;ACP et de clustering), on peut créer une carte.&lt;/p&gt;
 &lt;p&gt;Plus qu&amp;rsquo;à entourer les points et donner un nom aux images ! (ici, les bateaux-pompes)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/bateaux_pompiers.png&#34; alt=&#34;bateaux_pompiers&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/bateaux_pompiers.png&#34; alt=&#34;bateaux_pompiers&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/fr/posts/look_at_boats/</link>
+      <link>http://benoitboidin.com/fr/posts/look_at_boats/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/look_at_boats/</guid>
+      <guid>http://benoitboidin.com/fr/posts/look_at_boats/</guid>
       <description>
         
         
@@ -60,17 +60,17 @@
 &lt;p&gt;Tout ceci en restant en dessous de 92 millisecondes par image (grâce à l&amp;rsquo;optimisation par quantization).&lt;/p&gt;
 &lt;p&gt;Je suis maintenant à la recherche d&amp;rsquo;un nouveau défi et aimerais apporter mes compétences à une organisation qui valorise l&amp;rsquo;innovation et le travail en équipe.&lt;/p&gt;
 &lt;p&gt;Merci à toute l&amp;rsquo;équipe de MaxSea pour leur collaboration et les bons moments passés ensemble !&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/detected.png&#34; alt=&#34;detected&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/detected.png&#34; alt=&#34;detected&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://localhost:1313/fr/posts/monprojetsup/</link>
+      <link>http://benoitboidin.com/fr/posts/monprojetsup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/fr/posts/monprojetsup/</guid>
+      <guid>http://benoitboidin.com/fr/posts/monprojetsup/</guid>
       <description>
         
         
@@ -89,7 +89,7 @@
 &lt;li&gt;de 72% pour les écart de genre ;&lt;/li&gt;
 &lt;li&gt;de 95% pour les écart sociaux.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/monprojetsup_feedback.png&#34; alt=&#34;monprojetsup_feedback&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://benoitboidin.com/img/monprojetsup_feedback.png&#34; alt=&#34;monprojetsup_feedback&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 
       </description>
     </item>
