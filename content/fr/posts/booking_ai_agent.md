@@ -1,0 +1,1 @@
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7295378214682521600" height="1066" width="504" frameborder="0" allowfullscreen="" title="Post intégré"></iframe>
