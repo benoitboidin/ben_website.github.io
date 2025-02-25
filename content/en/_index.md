@@ -90,6 +90,7 @@
 
 ## Experiences
 
+- [**AI Agent**](https://booking-ai-agent.onrender.com) : booking AI prototype to show full stack qualities.
 - [**Detection Neural Network**](/experiences/ml_boat) _(6 months)_ : my final-year internship involved creating an neural network model for real-time ship recognition.
 - [**New Type of Search Engine**](/experiences/monprojetsup) _(2 years)_ : during my Master's degree, I had the chance to be the first student ever employed by the French National Scientific Research Center (CNRS) at Bordeaux, where I created a search engin using natural language processing and data extraction.  
 - [**Breast Cancer Detection**](/experiences/pertinint) _(2 month)_ : this voluntary internship focused on analyzing a framework for breast cancer detection through DNA and seeking improvements.
