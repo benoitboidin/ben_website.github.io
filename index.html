@@ -3,65 +3,84 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Portfolio de Benoît Boidin</title>
-  <meta name="description" content="Portfolio of Benoît Boidin, French developer passionate about AI and Machine Learning." />
-  <link rel="icon" href="/assets/favicon.ico" />
-  <link rel="stylesheet" href="/assets/css/style.css" />
+  <title>Benoît Boidin - AI & Machine Learning Portfolio</title>
+  <meta name="description" content="Portfolio of Benoît Boidin, French developer passionate about AI and Machine Learning, showcased in a Bento-style design." />
+  <link rel="icon" href="public/favicon.ico" />
+  <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body>
-  <header class="site-header">
-    <nav class="navbar">
-      <a href="/index.html" class="logo">Benoît Boidin</a>
-      <button class="menu-toggle" aria-label="Open menu">☰</button>
-      <ul class="nav-links">
-        <li><a href="/index.html">Home</a></li>
-        <li><a href="/education.html">Education</a></li>
-        <li><a href="/experiences.html">Experiences</a></li>
-        <li><a href="/posts.html">Posts</a></li>
-        <li><a href="/documents/cv_en.pdf" target="_blank">CV</a></li>
-      </ul>
-    </nav>
-  </header>
-  <main class="container">
-    <section class="profile">
-      <img src="/assets/img/profile/profile_costume.jpg" alt="Profile photo of Benoît Boidin" class="profile-img" />
+  <div class="bento-grid">
+    <!-- Profile Box -->
+    <div class="bento-box profile">
+      <img src="assets/img/profile_costume.jpg" alt="Profile photo of Benoît Boidin" class="profile-img" />
+      <h1>Benoît Boidin</h1>
       <div class="profile-links">
-        <a href="https://www.malt.fr/profile/benoitboidin" title="Hire me on Malt" target="_blank"><img src="/assets/img/malt.png" alt="Malt" /></a>
-        <a href="https://www.linkedin.com/in/benoitboidin" title="LinkedIn" target="_blank"><img src="/assets/img/linkedin.png" alt="LinkedIn" /></a>
-        <a href="https://github.com/benoitboidin" title="GitHub" target="_blank"><img src="/assets/img/github.png" alt="GitHub" /></a>
-        <a href="mailto:benoitboidin@icloud.com" title="Email"><img src="/assets/img/mail.png" alt="Email" /></a>
+        <a href="https://www.malt.fr/profile/benoitboidin" title="Hire me on Malt" target="_blank"><img src="assets/img/malt.png" alt="Malt" /></a>
+        <a href="https://www.linkedin.com/in/benoitboidin" title="LinkedIn" target="_blank"><img src="assets/img/linkedin.png" alt="LinkedIn" /></a>
+        <a href="https://github.com/benoitboidin" title="GitHub" target="_blank"><img src="assets/img/github.png" alt="GitHub" /></a>
+        <a href="mailto:benoitboidin@icloud.com" title="Email"><img src="assets/img/mail.png" alt="Email" /></a>
       </div>
-      <blockquote>I am Benoît, a French developer passionate about <strong>AI</strong> and <strong>Machine Learning</strong>! This website showcases my background and professional experiences.<br>Hire me as a freelance on <a href="https://www.malt.fr/profile/benoitboidin" target="_blank">Malt</a>.</blockquote>
-    </section>
-    <section>
-      <h2 id="experiences">Experiences</h2>
-      <ul>
-        <li><a href="https://booking-ai-agent.onrender.com" target="_blank"><strong>AI Agent</strong></a>: Booking AI prototype to show full stack qualities.</li>
-        <li><a href="/experiences/ml_boat.html"><strong>Detection Neural Network</strong></a> <em>(6 months)</em>: Created a neural network model for real-time ship recognition.</li>
-        <li><a href="/experiences/monprojetsup.html"><strong>New Type of Search Engine</strong></a> <em>(2 years)</em>: Created a search engine using NLP and data extraction at CNRS Bordeaux.</li>
-        <li><a href="/experiences/pertinint.html"><strong>Breast Cancer Detection</strong></a> <em>(2 months)</em>: Analyzed a framework for breast cancer detection through DNA.</li>
-      </ul>
-      <p>📄 <em>Recommendations: <a href="/documents/recommandation_hugo.pdf">Hugo Gimbert</a> (CNRS) and <a href="/documents/recommandation_fabien.pdf">Fabien Rhodes</a> (MaxSea).</em></p>
-    </section>
-    <section>
-      <h2 id="academic-background">Academic Background</h2>
-      <ul>
-        <li><a href="/education.html#master-en-informatique"><strong>Master</strong> in Computer Science</a>: Focus on software engineering and machine learning.</li>
-        <li><strong>Language study</strong> at University California San Diego to improve English proficiency.</li>
-        <li><a href="/education.html#licence-de-statistiques-appliquees"><strong>Bachelor’s</strong> in Applied Statistics</a>: Advanced statistics and cognitive sciences.</li>
-      </ul>
-      <p>📄 <em>View my resume: <a href="/documents/cv_fr.pdf">French</a> | <a href="/documents/cv_en.pdf">English</a>.</em></p>
-    </section>
-    <section>
-      <h2 id="others">Others</h2>
-      <p>Let’s connect on <a href="https://fr.linkedin.com/in/benoît-boidin-276124a3" target="_blank">LinkedIn</a> or <a href="https://github.com/benoitboidin" target="_blank">GitHub</a>!</p>
-      <p>Some <a href="/posts.html">articles</a> I posted on LinkedIn.</p>
-      <img src="/assets/img/resnet101_umap_cropped.jpg" alt="UMAP embedding" class="umap-img" />
-    </section>
-  </main>
+      <p class="profile-bio">I am Benoît, a French developer passionate about <strong>AI</strong> and <strong>Machine Learning</strong>! This website showcases my background and professional experiences.<br>Hire me as a freelance on <a href="https://www.malt.fr/profile/benoitboidin" target="_blank">Malt</a>.</p>
+    </div>
+
+    <!-- Introduction Box (Content from _index.md) -->
+    <div class="bento-box intro">
+      <h2>About Me</h2>
+      <p>I am Benoît, a French developper passionate about <strong>AI</strong> and <strong>Machine Learning</strong>! This website shocases my background and professional experiences. Hire me as a freelance on <a href="https://www.malt.fr/profile/benoitboidin" target="_blank" rel="noopener noreferrer">Malt</a>.</p>
+    </div>
+
+    <!-- Experiences Link Box -->
+    <div class="bento-box experiences-link">
+      <h2>Experiences</h2>
+      <p>Discover my professional journey and key projects.</p>
+      <a href="experiences.html" class="bento-link">View Experiences</a>
+    </div>
+
+    <!-- Education Link Box -->
+    <div class="bento-box education-link">
+      <h2>Academic Background</h2>
+      <p>Details about my degrees and academic achievements.</p>
+      <a href="education.html" class="bento-link">View Education</a>
+    </div>
+    
+    <!-- Posts Link Box -->
+    <div class="bento-box posts-link">
+        <h2>Posts</h2>
+        <p>Read some articles I've shared.</p>
+        <a href="posts.html" class="bento-link">View Posts</a>
+    </div>
+
+    <!-- CV Box -->
+    <div class="bento-box cv-box">
+        <h2>My Resume</h2>
+        <p><a href="documents/cv_en.pdf" target="_blank" rel="noopener noreferrer">English CV (PDF)</a></p>
+        <p><a href="documents/cv_fr.pdf" target="_blank" rel="noopener noreferrer">French CV (PDF)</a></p>
+    </div>
+
+    <!-- Recommendations Box -->
+    <div class="bento-box recommendations-box">
+        <h2>Recommendations</h2>
+        <p><a href="documents/recommandation_hugo.pdf" target="_blank" rel="noopener noreferrer">Letter by Hugo Gimbert (CNRS)</a></p>
+        <p><a href="documents/recommandation_fabien.pdf" target="_blank" rel="noopener noreferrer">Letter by Fabien Rhodes (MaxSea)</a></p>
+    </div>
+    
+    <!-- UMAP Image Box -->
+    <div class="bento-box umap-image-box">
+        <h2>Data Visualization</h2>
+        <p>Embedding extracted from a dataset I worked on (after clustering and dimension reduction):</p>
+        <img src="assets/img/resnet101_umap_cropped.jpg" alt="UMAP embedding of a dataset" class="umap-img"/>
+    </div>
+
+    <!-- Connect Box -->
+    <div class="bento-box connect-box">
+        <h2>Connect</h2>
+        <p>Let's connect on <a href="https://www.linkedin.com/in/benoitboidin" target="_blank" rel="noopener noreferrer">LinkedIn</a> or <a href="https://github.com/benoitboidin" target="_blank" rel="noopener noreferrer">GitHub</a>!</p>
+    </div>
+
+  </div>
   <footer class="site-footer">
     <p>&copy; 2025 Benoît Boidin</p>
   </footer>
-  <script src="/assets/js/main.js"></script>
+  <script src="assets/js/main.js"></script>
 </body>
 </html>
