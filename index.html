@@ -20,7 +20,7 @@
         <a href="https://github.com/benoitboidin" title="GitHub" target="_blank"><img src="assets/img/github.png" alt="GitHub" /></a>
         <a href="mailto:benoitboidin@icloud.com" title="Email"><img src="assets/img/mail.png" alt="Email" /></a>
       </div>
-      <p class="profile-bio">I am Benoît, a French developer passionate about <strong>AI</strong> and <strong>Machine Learning</strong>! This website showcases my background and professional experiences.<br>Hire me as a freelance on <a href="https://www.malt.fr/profile/benoitboidin" target="_blank">Malt</a>.</p>
+      <!-- <p class="profile-bio">I am Benoît, a French developer passionate about <strong>AI</strong> and <strong>Machine Learning</strong>! This website showcases my background and professional experiences.<br>Hire me as a freelance on <a href="https://www.malt.fr/profile/benoitboidin" target="_blank">Malt</a>.</p> -->
     </div>
 
     <!-- Introduction Box (Content from _index.md) -->
@@ -30,24 +30,30 @@
     </div>
 
     <!-- Experiences Link Box -->
-    <div class="bento-box experiences-link">
-      <h2>Experiences</h2>
-      <p>Discover my professional journey and key projects.</p>
-      <a href="experiences.html" class="bento-link">View Experiences</a>
+    <div class="bento-box experiences-box expandable-box" data-content-url="experiences.html">
+      <h2 class="bento-box-title">Experiences</h2>
+      <p class="bento-box-summary">Discover my professional journey and key projects.</p>
+      <div class="bento-box-content">
+        <!-- Content from experiences.html will be loaded here -->
+      </div>
     </div>
 
     <!-- Education Link Box -->
-    <div class="bento-box education-link">
-      <h2>Academic Background</h2>
-      <p>Details about my degrees and academic achievements.</p>
-      <a href="education.html" class="bento-link">View Education</a>
+    <div class="bento-box education-box expandable-box" data-content-url="education.html">
+      <h2 class="bento-box-title">Academic Background</h2>
+      <p class="bento-box-summary">Details about my degrees and academic achievements.</p>
+      <div class="bento-box-content">
+        <!-- Content from education.html will be loaded here -->
+      </div>
     </div>
     
     <!-- Posts Link Box -->
-    <div class="bento-box posts-link">
-        <h2>Posts</h2>
-        <p>Read some articles I've shared.</p>
-        <a href="posts.html" class="bento-link">View Posts</a>
+    <div class="bento-box posts-box expandable-box" data-content-url="posts.html">
+        <h2 class="bento-box-title">Posts</h2>
+        <p class="bento-box-summary">Read some articles I've shared.</p>
+        <div class="bento-box-content">
+          <!-- Content from posts.html will be loaded here -->
+        </div>
     </div>
 
     <!-- CV Box -->

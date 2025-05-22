@@ -22,15 +22,31 @@
     </nav>
   </header>
   <main class="container">
-    <h1>Detection Neural Network (6 months)</h1>
-    <p>My final-year internship involved creating a neural network model for real-time ship recognition. I designed and trained a deep learning model, optimized for speed and accuracy, and deployed it in a production-like environment for live detection tasks.</p>
-    <img src="/assets/img/The-network-structure-of-YOLOX.png" alt="YOLOX Network Structure" style="max-width:100%;border-radius:8px;margin:1rem 0;" />
-    <p>Key achievements:</p>
-    <ul>
-      <li>Developed a custom dataset and data augmentation pipeline.</li>
-      <li>Implemented and fine-tuned a YOLOX-based architecture.</li>
-      <li>Integrated the model into a real-time video processing system.</li>
-    </ul>
+    <h1>MaxSea</h1>
+    <p><strong>Machine Learning Specialist</strong> • April 2024 - September 2024 (6 months)<br />
+    Internship • Bidart, Nouvelle-Aquitaine, France</p>
+    <p>Neural network (YOLOX) training for real-time ship detection and tracking.</p>
+    <h2>1. Data gathering</h2>
+    <p>Improving YOLOX performance started by creating a boat detection dataset. I managed to gather more than 110,000 images with about 290,000 ships.</p>
+    <p>By exploring the dataset with FiftyOne, I detected some duplicates and similar images. Thanks to embeddings, I created a similarity filter that I used to avoid overfitting.</p>
+    <h2>2. Visualization and statistics</h2>
+    <p>Embeddings allowed me to go deeper into the dataset: I detected clusters of unwanted objects like submarines. I computed statistics on detection size, image dimensions, and number of objects per class of boat (to avoid unbalanced categories).</p>
+    <h2>3. Clustering and annotation</h2>
+    <p>To allow the model to classify boats, I labeled the dataset. I used the embeddings and clustering which allowed me to quickly sort data.</p>
+    <h2>4. Training</h2>
+    <p>To rapidly iterate over experiments, I automated the training pipeline. The pipeline contained data filters, YOLOX parameters, logs, and training results backup.</p>
+    <p>Everything was automated so the team could launch a full training based on a single JSON file and bash script.</p>
+    <h2>5. Quantization</h2>
+    <p>To allow YOLOX to work in real-time, I used OpenVINO to quantize every model and optimize it for Intel CPUs. The improvement was above 45% per frame.</p>
+    <h2>6. Performances and tests</h2>
+    <p>To create a solid knowledge base for my successor, I logged every training and created clear reports of my work. The next data scientist could easily work on the project right after me and didn't need much time to get to know the processes.</p>
+    <p>📄 This internship is described in my <a href="/documents/memoire.pdf">memoire</a>.</p>
+    <p>Here are the results of a model I trained. Other smaller models were trained in order to be less resource-heavy.</p>
+    <img src="/img/detected.png" alt="Detection" style="max-width:100%;border-radius:8px;margin:1rem 0;" />
+    <p>To efficiently annotate datasets, I used embeddings and FiftyOne. I then created similarity maps:</p>
+    <img src="/img/clustering_interface.png" alt="Embeddings" style="max-width:100%;border-radius:8px;margin:1rem 0;" />
+    <p>Here are ships detected as fireboats:</p>
+    <img src="/img/bateaux_pompiers.png" alt="Sélection" style="max-width:100%;border-radius:8px;margin:1rem 0;" />
   </main>
   <footer class="site-footer">
     <p>&copy; 2025 Benoît Boidin</p>
