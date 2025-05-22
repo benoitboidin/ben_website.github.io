@@ -36,8 +36,15 @@ document.addEventListener('DOMContentLoaded', () => {
             const pageMainContent = doc.querySelector('.page-container'); // Or 'main' or specific content div
             
             if (pageMainContent) {
-              // Clone and append children to avoid moving original script/style tags from head
-              Array.from(pageMainContent.children).forEach(child => {
+              // Remove first <h1> and first <p> (description) if present to avoid redundancy
+              let children = Array.from(pageMainContent.children);
+              // Remove first <h1>
+              const h1Index = children.findIndex(el => el.tagName === 'H1');
+              if (h1Index !== -1) children.splice(h1Index, 1);
+              // Remove first <p> after <h1> (likely description)
+              const pIndex = children.findIndex(el => el.tagName === 'P');
+              if (pIndex !== -1) children.splice(pIndex, 1);
+              children.forEach(child => {
                 contentDiv.appendChild(child.cloneNode(true));
               });
             } else {
